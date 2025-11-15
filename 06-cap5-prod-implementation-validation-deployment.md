@@ -226,7 +226,7 @@ Durante este sprint se completó el diseño e implementación del Landing Page d
 
 | Recurso | Acción implementada | Método HTTP | URL / Endpoint | Link de repositorio |
 | ----- | ----- | ----- | ----- | ----- |
-| Business-Web-page | Visualizaciòn inicial | GET |  | [https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327/GlassGo-Business-Web-page](https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327/GlassGo-Business-Web-page)  |
+| Business-Web-page | Visualizaciòn inicial | GET | https://rpg2-0-opensource-1asi0729-2520-7327.github.io/GlassGo-Business-Web-page/ | [https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327/GlassGo-Business-Web-page](https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327/GlassGo-Business-Web-page)  |
 
 | Repository | Branch | Author | Commit Id | Commit Message |
 | ----- | ----- | ----- | ----- | ----- |
