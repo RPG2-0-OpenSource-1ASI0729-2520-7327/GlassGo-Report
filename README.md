@@ -1,22 +1,28 @@
-**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
-
 <img src="assets/images/logo-upc.png" alt="Logo UPC" style="width: 150px; height: auto;" />
 
-**UPC \- Ingenieria \- Ingenieria de Software \- 202520**
+**Universidad Peruana de Ciencias Aplicadas**
 
-1ASI0729 \- Desarrollo de Aplicaciones Open Source
+**Facultad:** Ingeniería
 
-**NRC:**  
-7327
+**Carrera:** Ingeniería de Software
 
-**DOCENTE:**  
-**Angel Augusto Velasquez Nuñez**
+**Ciclo:** 202520
+
+**Codigo del curso:** 1ASI0729
+
+**Nombre del curso:** Desarrollo de Aplicaciones Open Source
+
+**NRC:** 7327
+
+**DOCENTE:** Angel Augusto Velasquez Nuñez
 
 **Informe de Trabajo Final**
 
-GRUPO RPG2.0
+**Nombre del Startup:** RPG2.0
 
-**GlassGo**
+**Nombre del producto:** GlassGo
+
+**Relacion de estudiantes**
 
 | Código | Apellidos | Nombres |
 | :---- | :---- | :---- |
@@ -25,7 +31,10 @@ GRUPO RPG2.0
 | U202211881 | Guillen Giraldo | Myke Dylan |
 | U202318588 | Céspedes Pillco | Jarod Jack |
 
-**2025-2**  
+**1 de diciembre 2025**  
+
+
+
 **Registro de Versiones del Informe**
 
 | Versión | Fecha | Autor | Descripción de modificación |
