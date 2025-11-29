@@ -192,7 +192,7 @@ El objetivo principal de este Sprint es diseñar, implementar y validar las secc
 |  |  | W011 | Testing y validación | Realizar testing de funcionalidades implementadas | 8 | Guillermo Howard |
 |  |  | W012 | Deploy landing page | Configurar y realizar deploy de la landing page | 4 | David Vivar |
 
-![cap5](/assets/images/cap5/Trello1.png)
+![cap5](assets/images/cap5/Trello1.png)
 
 Trello: [https://trello.com/invite/b/69000cbed483a3105c16729b/ATTI81534ff0e672447d844a6ba84f132b73818B03A8/spint-backlog-12](https://trello.com/invite/b/69000cbed483a3105c16729b/ATTI81534ff0e672447d844a6ba84f132b73818B03A8/spint-backlog-12)
 
@@ -212,13 +212,13 @@ Validación de compatibilidad en navegadores y dispositivos.
 
 5.2.1.5. Execution Evidence for Sprint Review.
 
-![cap5](/assets/images/cap5/Landin1.png)
+![cap5](assets/images/cap5/Landin1.png)
 
-![cap5](/assets/images/cap5/Landin2.png)
+![cap5](assets/images/cap5/Landin2.png)
 
-![cap5](/assets/images/cap5/Landin3.png)
+![cap5](assets/images/cap5/Landin3.png)
 
-![cap5](/assets/images/cap5/Landin4.png)
+![cap5](assets/images/cap5/Landin4.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -256,7 +256,7 @@ Se mantuvo una comunicación constante mediante la plataforma Discord para coord
 Se aplicaron buenas prácticas de programación, control de versiones y colaboración en equipo.  
 Gracias a esta organización, se logró cumplir de manera efectiva el objetivo del sprint, garantizando que todos los integrantes contribuyeran de forma activa en el desarrollo de la Landing Page.
 
-![cap5](/assets/images/cap5/Participacion1.png)
+![cap5](assets/images/cap5/Participacion1.png)
 
 ### 5.2.2. Sprint 2
 
@@ -295,7 +295,7 @@ Con el fin de mantener una coordinación efectiva y una comunicación fluida ent
 
 El objetivo principal de este Sprint es desarrollar la interfaz frontend, enfocándose en una estructura clara, navegación eficiente y visualización adecuada de datos críticos.
 
-![cap5](/assets/images/cap5/Trello2.png)
+![cap5](assets/images/cap5/Trello2.png)
 
 Trello: [https://trello.com/invite/b/69000cde1e1959306e4d45ba/ATTIeabfa518f63107c177ee788bf4c455a21CE02ADD/sprint-backlog-22](https://trello.com/invite/b/69000cde1e1959306e4d45ba/ATTIeabfa518f63107c177ee788bf4c455a21CE02ADD/sprint-backlog-22)
 
@@ -364,7 +364,7 @@ Durante el Sprint 3, se ha definido el desarrollo e integración de los módulos
 
 El objetivo principal de este Sprint es consolidar una experiencia funcional completa para los distintos perfiles de usuario dentro de la plataforma GlassGo. Se prioriza la mejora de la landing page para comunicar eficazmente la propuesta de valor a nuevos visitantes, así como la habilitación de módulos clave como la gestión de ventas, recetas y pedidos para los administradores de restaurantes, y la gestión de órdenes para los proveedores.
 
-![cap5](/assets/images/cap5/Trello3.png)
+![cap5](assets/images/cap5/Trello3.png)
 
 Trello: [https://trello.com/invite/b/69000c76fa893622d701697c/ATTI60bf0022730e8c5c23ff3f754d43e9b185AF029B/sprint-backlog-32](https://trello.com/invite/b/69000c76fa893622d701697c/ATTI60bf0022730e8c5c23ff3f754d43e9b185AF029B/sprint-backlog-32) 
 

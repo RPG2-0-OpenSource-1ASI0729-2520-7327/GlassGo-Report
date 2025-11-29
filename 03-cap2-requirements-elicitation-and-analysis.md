@@ -10,25 +10,25 @@
 
 ### 2.1.1. Análisis competitivo.
 
-| Competitive Analysis Landscape  |  |                                                                                                                                                                                                                                            |                                                                                                                                                                                                 |                                                                                                                                                                            |                                                                                                                                                                                      |
-| ----- | ----- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **¿Por qué llevar a cabo este análisis?** | Comparar propuestas tecnológicas de mapeo sísmico para identificar ventajas competitivas en accesibilidad, educación y personalización ciudadana. |                                                                                                                                                                                                                                            |                                                                                                                                                                                                 |                                                                                                                                                                            |                                                                                                                                                                                      |
-|  |  |                                                                                                                                                                                                                                            |                                                                                                                                                                                                 |                                                                                                                                                                            |                                                                                                                                                                                      |
-|  |  | **GlassGo**                                                                                                                                                                                                                                | **Verizon**                                                                                                                                                                                     | **Frotcom**                                                                                                                                                                | **Shockwatch**                                                                                                                                                                       |
-|  |  | ![cap2](/assets/images/cap2/GlassGo.png)                                                                                                                                                                                                   | ![cap2](/assets/images/cap2/Verizon.png)                                                                                                                                                        | ![cap2](/assets/images/cap2/Frotcom.png)                                                                                                                                   | ![cap2](/assets/images/cap2/Frotcom.png)                                                                                                                                             |
+| Competitive Analysis Landscape  |  |                                                                                                                                                                                                                                           |                                                                                                                                                                                                |                                                                                                                                                                           |                                                                                                                                                                                     |
+| ----- | ----- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **¿Por qué llevar a cabo este análisis?** | Comparar propuestas tecnológicas de mapeo sísmico para identificar ventajas competitivas en accesibilidad, educación y personalización ciudadana. |                                                                                                                                                                                                                                           |                                                                                                                                                                                                |                                                                                                                                                                           |                                                                                                                                                                                     |
+|  |  |                                                                                                                                                                                                                                           |                                                                                                                                                                                                |                                                                                                                                                                           |                                                                                                                                                                                     |
+|  |  | **GlassGo**                                                                                                                                                                                                                               | **Verizon**                                                                                                                                                                                    | **Frotcom**                                                                                                                                                               | **Shockwatch**                                                                                                                                                                      |
+|  |  | ![cap2](assets/images/cap2/GlassGo.png)                                                                                                                                                                                                   | ![cap2](assets/images/cap2/Verizon.png)                                                                                                                                                        | ![cap2](assets/images/cap2/Frotcom.png)                                                                                                                                   | ![cap2](assets/images/cap2/Frotcom.png)                                                                                                                                             |
 | **Perfil** | **Overview** | Plataforma integral que busca mejorar la seguridad y eficiencia en el transporte de licores en envases de vidrio. Integra seguimiento en tiempo real, optimización de rutas y sensores inteligentes, bajo un modelo de membresía accesible.  | Software global de gestión de flotas. Ofrece rastreo GPS, reportes de comportamiento del conductor, optimización de rutas y cumplimiento de mantenimiento preventivo para todo tipo de vehículos. | Sistema europeo de control de flotas. Permite monitorear ubicación, consumo de combustible, rendimiento de conductores y planificación de rutas para empresas de transporte. | Especialista en sensores de impacto y temperatura. Sus etiquetas y dispositivos registran vibraciones y golpes en el transporte de mercancías frágiles, reduciendo pérdidas por daños. |
-|  | **Ventaja competitiva   ¿Qué valor ofrece a los clientes?** | Trazabilidad completa de los envíos, prevención de roturas mediante sensores, optimización logística y modelo de suscripción accesible para empresas de cualquier tamaño.                                                                  | Cobertura global y herramientas avanzadas para flotas de gran escala.                                                                                                                           | Simplicidad en monitoreo y costos adaptados a medianas empresas de transporte.                                                                                             | Protección específica para mercancía frágil mediante dispositivos de impacto.                                                                                                        |
-| **Perfil de Marketing** | **Mercado objetivo** | Transportista, distribuidores y dueños de negocios de licores que requieren seguridad y eficiencia en envases de vidrio.                                                                                                                   | Grandes corporaciones con flotas diversas y necesidades de control total.                                                                                                                       | PYMES de transporte y logística en crecimiento.                                                                                                                            | Empresas que mueven productos delicados (electrónica, vidrio, alimentos premium).                                                                                                    |
-|  | **Estrategias de marketing** | Estrategia digital, alianzas con distribuidores y demostraciones en ferias de bebidas y logística.                                                                                                                                         | Campañas globales, webinars y ventas consultivas B2B.                                                                                                                                           | Distribuidores locales, demostraciones personalizadas y soporte posventa.                                                                                                  | Catálogos especializados, distribuidores industriales y presencia en eventos de embalaje.                                                                                            |
-| **Perfil de Producto** | **Productos & Servicios** | Plataforma SaaS con dashboard, sensores inteligentes de impacto, alertas en tiempo real y reportes analíticos.                                                                                                                             | Software de gestión de flotas, telemetría avanzada, informes de rendimiento.                                                                                                                    | Módulos de rastreo GPS, consumo de combustible y planificación de rutas.                                                                                                   | Indicadores visuales y sensores electrónicos para detectar golpes y vibraciones.                                                                                                     |
-|  | **Precios & Costos** | Membresía mensual escalable según número de vehículos y sensores.                                                                                                                                                                          | Licencias por vehículo \+ instalación.                                                                                                                                                          | Cuota por dispositivo y servicio mensual.                                                                                                                                  | Venta directa de dispositivos y kits.                                                                                                                                                |
-|  | **Canales de distribución (Web y/o Móvil)** | Plataforma web y app móvil.                                                                                                                                                                                                                | Web y apps móviles integradas.                                                                                                                                                                  | Web y app móvil ligera.                                                                                                                                                    | Web corporativa y distribuidores físicos.                                                                                                                                            |
-| **Análisis FODA** | **Fortalezas** | Solución especializada en licores en vidrio, integración de trazabilidad, prevención de roturas y optimización en un solo sistema.                                                                                                         | Experiencia global y robustez en telemetría.                                                                                                                                                    | Facilidad de uso y soporte cercano.                                                                                                                                        | Precisión en control de impactos.                                                                                                                                                    |
-|  | **Oportunidades** | Alianzas con bodegas y distribuidores; integración con aseguradoras; expansión regional.                                                                                                                                                   | Ajustar planes para sectores específicos (bebidas).                                                                                                                                             | Ampliar servicios para transporte delicado.                                                                                                                                | Desarrollar sensores conectados con plataformas logísticas.                                                                                                                          |
-|  | **Debilidades** | Necesidad de educar al mercado sobre su propuesta innovadora.                                                                                                                                                                              | Costos altos para PYMES.                                                                                                                                                                        | Funciones limitadas para mercancía frágil.                                                                                                                                 | Falta de trazabilidad integral y optimización de rutas.                                                                                                                              |
-|  | **Amenazas** | Entrada de grandes players de fleet management al nicho de mercancía frágil.                                                                                                                                                               | Competencia de soluciones más económicas.                                                                                                                                                       | Avance de herramientas gratuitas de rastreo.                                                                                                                               | Copias de bajo costo sin soporte técnico.                                                                                                                                            |
+|  | **Ventaja competitiva   ¿Qué valor ofrece a los clientes?** | Trazabilidad completa de los envíos, prevención de roturas mediante sensores, optimización logística y modelo de suscripción accesible para empresas de cualquier tamaño.                                                                 | Cobertura global y herramientas avanzadas para flotas de gran escala.                                                                                                                          | Simplicidad en monitoreo y costos adaptados a medianas empresas de transporte.                                                                                            | Protección específica para mercancía frágil mediante dispositivos de impacto.                                                                                                       |
+| **Perfil de Marketing** | **Mercado objetivo** | Transportista, distribuidores y dueños de negocios de licores que requieren seguridad y eficiencia en envases de vidrio.                                                                                                                  | Grandes corporaciones con flotas diversas y necesidades de control total.                                                                                                                      | PYMES de transporte y logística en crecimiento.                                                                                                                           | Empresas que mueven productos delicados (electrónica, vidrio, alimentos premium).                                                                                                   |
+|  | **Estrategias de marketing** | Estrategia digital, alianzas con distribuidores y demostraciones en ferias de bebidas y logística.                                                                                                                                        | Campañas globales, webinars y ventas consultivas B2B.                                                                                                                                          | Distribuidores locales, demostraciones personalizadas y soporte posventa.                                                                                                 | Catálogos especializados, distribuidores industriales y presencia en eventos de embalaje.                                                                                           |
+| **Perfil de Producto** | **Productos & Servicios** | Plataforma SaaS con dashboard, sensores inteligentes de impacto, alertas en tiempo real y reportes analíticos.                                                                                                                            | Software de gestión de flotas, telemetría avanzada, informes de rendimiento.                                                                                                                   | Módulos de rastreo GPS, consumo de combustible y planificación de rutas.                                                                                                  | Indicadores visuales y sensores electrónicos para detectar golpes y vibraciones.                                                                                                    |
+|  | **Precios & Costos** | Membresía mensual escalable según número de vehículos y sensores.                                                                                                                                                                         | Licencias por vehículo \+ instalación.                                                                                                                                                         | Cuota por dispositivo y servicio mensual.                                                                                                                                 | Venta directa de dispositivos y kits.                                                                                                                                               |
+|  | **Canales de distribución (Web y/o Móvil)** | Plataforma web y app móvil.                                                                                                                                                                                                               | Web y apps móviles integradas.                                                                                                                                                                 | Web y app móvil ligera.                                                                                                                                                   | Web corporativa y distribuidores físicos.                                                                                                                                           |
+| **Análisis FODA** | **Fortalezas** | Solución especializada en licores en vidrio, integración de trazabilidad, prevención de roturas y optimización en un solo sistema.                                                                                                        | Experiencia global y robustez en telemetría.                                                                                                                                                   | Facilidad de uso y soporte cercano.                                                                                                                                       | Precisión en control de impactos.                                                                                                                                                   |
+|  | **Oportunidades** | Alianzas con bodegas y distribuidores; integración con aseguradoras; expansión regional.                                                                                                                                                  | Ajustar planes para sectores específicos (bebidas).                                                                                                                                            | Ampliar servicios para transporte delicado.                                                                                                                               | Desarrollar sensores conectados con plataformas logísticas.                                                                                                                         |
+|  | **Debilidades** | Necesidad de educar al mercado sobre su propuesta innovadora.                                                                                                                                                                             | Costos altos para PYMES.                                                                                                                                                                       | Funciones limitadas para mercancía frágil.                                                                                                                                | Falta de trazabilidad integral y optimización de rutas.                                                                                                                             |
+|  | **Amenazas** | Entrada de grandes players de fleet management al nicho de mercancía frágil.                                                                                                                                                              | Competencia de soluciones más económicas.                                                                                                                                                      | Avance de herramientas gratuitas de rastreo.                                                                                                                              | Copias de bajo costo sin soporte técnico.                                                                                                                                           |
 
-### 2.1.2. Estrategías y tácticas frente a competidores.
+### 2.1.2. Estrategias y tácticas frente a competidores.
 
 **Enfoque Estratégico de GlassGo**
 
@@ -127,7 +127,7 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
         * **Edad:** 50 años
         * **Distrito:** Santa Anita
         * **Screenshot:**
-          **![cap2](/assets/images/cap2/Entrevista1.1.png)**
+          **![cap2](assets/images/cap2/Entrevista1.1.png)**
         * **Video URL:** [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
         * **Timing:** 00:00 \- 10:48
         * **Resumen:**  
@@ -145,7 +145,7 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     * **Edad:** 31 años
     * **Distrito:** Santa Anita
     * **Screenshot:**  
-      **![cap2](/assets/images/cap2/Entrevista1.2.png)**
+      **![cap2](assets/images/cap2/Entrevista1.2.png)**
     * **Video URL:**   
       [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
     * **Timing: 10:51 \- 40:18**
@@ -168,16 +168,14 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     * **Edad:** 37 años
     * **Distrito: Lima**
     * **Screenshot:**
-      **![cap2](/assets/images/cap2/Entrevista1.3.png)**
+      **![cap2](assets/images/cap2/Entrevista1.3.png)**
     * **Video URL:**
 
       [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
 
     * **Timing: 40:19 \- 46:25**
     * **Resumen:**
-
-
-
+  
       Percy Adrián Rojas León, de 37 años, es el director de una empresa de transporte de carga con varios años de experiencia en el rubro. Su personalidad refleja organización, responsabilidad y orientación a resultados, especialmente en el cumplimiento de tiempos de entrega y el cuidado de la mercancía transportada. Dirige una flota mediana de camiones, dedicada principalmente al transporte y distribución de productos de consumo y bebidas hacía bares, licorerías y supermercados, lo que evidencia su inserción en un segmento comercial con alta demanda de puntualidad y conservación del producto.
 
       El equipo de trabajo que lidera es reducido pero eficiente, con una estructura enfocada en la coordinación logística y la integridad de las entregas. En cuanto al uso de la tecnología, la herramienta principal es el smartphone, empleado tanto por los conductores como por el personal de logística para la comunicación y coordinación diaria. También utilizan computadoras para la gestión general y hojas de cálculo en la planificación semi-manual de rutas, combinando procedimientos tradicionales con recursos digitales básicos.
@@ -185,68 +183,48 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
       El usuario emplea sistemas GPS estándar, los cuales permiten el rastreo de ubicación y monitoreo del avance de las entregas. No obstante, reconoce limitaciones en la automatización y precisión de los datos obtenidos. Identifica como información valiosa la posibilidad de acceder a alertas en tiempo real sobre ubicación, temperatura de la carga, impactos o movimientos bruscos, lo que revela un interés por mejorar la trazabilidad y control de las condiciones del transporte, especialmente en el manejo de botellas y líquidos frágiles. Dichas carencias pueden representar costos adicionales
 
       Finalmente, el usuario expresa que una solución ideal para su empresa debería caracterizarse por su facilidad de uso, especialmente desde aplicaciones móviles, de modo que tanto él como su equipo puedan integrarse sin necesidad de conocimientos técnicos complejos. Esto refleja una preferencia por tecnologías intuitivas, accesibles y compatibles con dispositivos móviles, consolidando un perfil de usuario pragmático y funcional, que busca eficiencia logística sin sacrificar simplicidad operativa.
-
-
-
-
-
+  
+    
 * **Segmento 2: Proveedores de licores**
     * **Entrevista 1:**
         * **Nombre:** Omar
         * **Edad:** 48 años
         * **Distrito:** Arequipa
         * **Screenshot:**  
-          **![cap2](/assets/images/cap2/Entrevista2.1.png)**
+          **![cap2](assets/images/cap2/Entrevista2.1.png)**
         * **Video URL:**
 
           [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
 
         * **Timing:** 57:30 \- 01:04:35
         * **Resumen:**
-
-          Omar, gerente general de una distribuidora de licores ubicada en la ciudad de Arequipa, cuenta con 18 años de experiencia en el rubro y actualmente lidera un equipo de 35 personas junto a una flota de 12 camiones que atienden principalmente a hoteles, cadenas de restaurantes, licorerías de mediana y gran escala, además de supermercados. A sus 48 años, proyecta una personalidad organizada, con visión estratégica y capacidad de negociación, participando directamente en acuerdos con proveedores e inversiones mientras delega la coordinación logística a un supervisor.
-
-
-
-      Las mayores demandas de su negocio se concentran en las campañas de julio por fiestas patrias, diciembre por navidad y año nuevo, así como en ferias gastronómicas y eventos corporativos, donde llegan a realizar alrededor de 600 entregas mensuales, lo que representa un 40% de su volumen total en picos de temporada. La empresa opera con computadoras y laptops para tareas administrativas, mientras que los conductores utilizan celulares Android con GPS para reportes y coordinación, apoyándose además en WhatsApp y hojas de cálculo como herramientas complementarias para el control de inventarios y facturación.
-
       
+          Omar, gerente general de una distribuidora de licores ubicada en la ciudad de Arequipa, cuenta con 18 años de experiencia en el rubro y actualmente lidera un equipo de 35 personas junto a una flota de 12 camiones que atienden principalmente a hoteles, cadenas de restaurantes, licorerías de mediana y gran escala, además de supermercados. A sus 48 años, proyecta una personalidad organizada, con visión estratégica y capacidad de negociación, participando directamente en acuerdos con proveedores e inversiones mientras delega la coordinación logística a un supervisor.   Las mayores demandas de su negocio se concentran en las campañas de julio por fiestas patrias, diciembre por navidad y año nuevo, así como en ferias gastronómicas y eventos corporativos, donde llegan a realizar alrededor de 600 entregas mensuales, lo que representa un 40% de su volumen total en picos de temporada. La empresa opera con computadoras y laptops para tareas administrativas, mientras que los conductores utilizan celulares Android con GPS para reportes y coordinación, apoyándose además en WhatsApp y hojas de cálculo como herramientas complementarias para el control de inventarios y facturación.
 
-      Sin embargo, el entrevistado reconoce que actualmente dependen de reportes tardíos de choferes o reclamos de clientes para identificar incidencias, lo que impacta negativamente en la satisfacción y confianza de clientes clave, obligando a asumir costos adicionales como reposiciones de producto, horas extras, penalidades y envíos urgentes. Dentro de sus expectativas de mejora, considera prioritario implementar soluciones tecnológicas que ofrezcan seguimiento en tiempo real, reportes automáticos y alertas tempranas que permitan anticipar retrasos y reducir pérdidas, siempre con un claro retorno de inversión que justifique la adopción de nuevas plataformas.
+          Sin embargo, el entrevistado reconoce que actualmente dependen de reportes tardíos de choferes o reclamos de clientes para identificar incidencias, lo que impacta negativamente en la satisfacción y confianza de clientes clave, obligando a asumir costos adicionales como reposiciones de producto, horas extras, penalidades y envíos urgentes. Dentro de sus expectativas de mejora, considera prioritario implementar soluciones tecnológicas que ofrezcan seguimiento en tiempo real, reportes automáticos y alertas tempranas que permitan anticipar retrasos y reducir pérdidas, siempre con un claro retorno de inversión que justifique la adopción de nuevas plataformas.
 
-
-
+    
 * **Entrevista 2:**
     * **Nombres:** Adolfo Palacin
     * **Apellidos:** Palacin Lope
     * **Edad:** 46 años
     * **Distrito:** Lima metropolitana
     * **Screenshot:**
-      **![cap2](/assets/images/cap2/Entrevista2.2.png)**
+      **![cap2](assets/images/cap2/Entrevista2.2.png)**
       **Video URL:**
 
       [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
 
     * **Timing: 46:26 \- 57:28**
     * **Resumen:**
+  
+       Lulio Adolfo Palacín López, supervisor de transporte en Distribuidora San Martín, cuenta con más de 10 años de experiencia en la gestión logística dentro del sector de distribución de licores. A sus 46 años, se caracteriza por una personalidad organizada y resolutiva, enfocada en la programación de viajes, la coordinación con conductores y la supervisión del correcto traslado de la mercadería hacia clientes como bares, licorerías, restaurantes, pequeños supermercados y minimarkets en Lima.
 
-      Lulio Adolfo Palacín López, supervisor de transporte en Distribuidora San Martín, cuenta con más de 10 años de experiencia en la gestión logística dentro del sector de distribución de licores. A sus 46 años, se caracteriza por una personalidad organizada y resolutiva, enfocada en la programación de viajes, la coordinación con conductores y la supervisión del correcto traslado de la mercadería hacia clientes como bares, licorerías, restaurantes, pequeños supermercados y minimarkets en Lima.
+       La empresa, ubicada en Ate, dispone de una flota de 5 camiones medianos y concentra su mayor volumen de operaciones durante los meses de julio, diciembre y en fechas festivas o fines de semana, alcanzando en promedio 150–160 entregas mensuales. El control logístico se realiza principalmente con herramientas básicas: teléfonos móviles con Android, WhatsApp y Google Maps.
 
+       La comunicación con los conductores es directa y se reportan incidentes mediante fotos o mensajes, aunque en ocasiones con demoras, lo que dificulta la trazabilidad en tiempo real. Las principales preocupaciones identificadas resultan ser la merma de carga, accidentes con su producto y retrasos sobre los tiempos acordados previamente en cada entrega. Estas contingencias impactan en la satisfacción para sus clientes al igual que su credibilidad de su trabajo repercutiendo en cancelaciones o pérdidas de futuras oportunidades.
 
-
-      La empresa, ubicada en Ate, dispone de una flota de 5 camiones medianos y concentra su mayor volumen de operaciones durante los meses de julio, diciembre y en fechas festivas o fines de semana, alcanzando en promedio 150–160 entregas mensuales. El control logístico se realiza principalmente con herramientas básicas: teléfonos móviles con Android, WhatsApp y Google Maps.
-
-      
-
-      La comunicación con los conductores es directa y se reportan incidentes mediante fotos o mensajes, aunque en ocasiones con demoras, lo que dificulta la trazabilidad en tiempo real. Las principales preocupaciones identificadas resultan ser la merma de carga, accidentes con su producto y retrasos sobre los tiempos acordados previamente en cada entrega. Estas contingencias impactan en la satisfacción para sus clientes al igual que su credibilidad de su trabajo repercutiendo en cancelaciones o pérdidas de futuras oportunidades.
-
-      
-
-      Al usar una plataforma digital, considera imprescindible alertas o notificaciones sobre posibles cuellos de botella para evitar demoras. Desea una herramienta económica, sencilla de usar y compatible con dispositivos moviles. Su motivación principal radica en mantener un control más riguroso de las operaciones, reducir pérdidas y asegurar un servicio que refuerce la confianza del cliente.
-
-
-
-
+       Al usar una plataforma digital, considera imprescindible alertas o notificaciones sobre posibles cuellos de botella para evitar demoras. Desea una herramienta económica, sencilla de usar y compatible con dispositivos moviles. Su motivación principal radica en mantener un control más riguroso de las operaciones, reducir pérdidas y asegurar un servicio que refuerce la confianza del cliente.
 
 * **Entrevista 3:**
     * **Nombres:** Luis Javier
@@ -254,7 +232,7 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     * **Edad:** 52 años
     * **Distrito:** Lima metropolitana
     * **Screenshot:**
-      **![cap2](/assets/images/cap2/Entrevista2.3.png)**
+      **![cap2](assets/images/cap2/Entrevista2.3.png)**
     * **Video URL:**
 
       [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
@@ -278,7 +256,7 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
         * **Edad:** 33 años
         * **Distrito:** San Juan de Miraflores
         * **Screenshot:**
-          **![cap2](/assets/images/cap2/Entrevista3.1.png)**
+          **![cap2](assets/images/cap2/Entrevista3.1.png)**
         * **Video URL:**
 
           [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
@@ -287,16 +265,10 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
         * **Resumen:**
 
           Carla Martinez, administradora de un negocio con tres años de operación en el sector de ventas minoristas, refleja una personalidad organizada y enfocada en el control del inventario. A sus 33 años, combina la disciplina en la gestión con un estilo de liderazgo práctico, apoyándose en herramientas digitales básicas para coordinar los procesos de abastecimiento. El negocio utiliza principalmente la computadora de escritorio (PC) para la gestión de pedidos e inventarios, mientras que para la comunicación con los proveedores se emplean canales como llamadas telefónicas, correos electrónicos y WhatsApp, lo que permite un contacto directo y constante.
+        * 
+          Dentro de sus criterios de selección de proveedores, Carla prioriza la confianza, la calidad y la trayectoria de la marca en el mercado, destacando que siempre prefiere realizar pedidos con anticipación para garantizar disponibilidad de productos. Sin embargo, menciona que la coordinación puede ser tanto fácil como complicada, debido al análisis constante de la demanda y el control de los artículos más solicitados. Entre los principales problemas enfrentados por el negocio están los retrasos en las entregas, la falta de ciertos productos y los cambios repentinos en los precios.
 
-
-
-      Dentro de sus criterios de selección de proveedores, Carla prioriza la confianza, la calidad y la trayectoria de la marca en el mercado, destacando que siempre prefiere realizar pedidos con anticipación para garantizar disponibilidad de productos. Sin embargo, menciona que la coordinación puede ser tanto fácil como complicada, debido al análisis constante de la demanda y el control de los artículos más solicitados. Entre los principales problemas enfrentados por el negocio están los retrasos en las entregas, la falta de ciertos productos y los cambios repentinos en los precios.
-
-      
-
-      Para ella, resulta fundamental recibir confirmaciones claras de envío y conocer los horarios exactos de llegada de los pedidos. Asimismo, considera que contar con un sistema de seguimiento en tiempo real aumentaría la confianza y transparencia en el proceso. Finalmente, Carla expresa disposición a invertir en un servicio que ofrezca transparencia, confiabilidad y puntualidad, siempre que esté alineado con la misión de brindar un servicio de calidad a la sociedad.
-
-
+          Para ella, resulta fundamental recibir confirmaciones claras de envío y conocer los horarios exactos de llegada de los pedidos. Asimismo, considera que contar con un sistema de seguimiento en tiempo real aumentaría la confianza y transparencia en el proceso. Finalmente, Carla expresa disposición a invertir en un servicio que ofrezca transparencia, confiabilidad y puntualidad, siempre que esté alineado con la misión de brindar un servicio de calidad a la sociedad.
 
 * **Entrevista 2:**
     * **Nombre:** Alejandro
@@ -304,7 +276,7 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     * **Edad:** 37 años
     * **Distrito:** Lima metropolitana
     * **Screenshot:**
-      **![cap2](/assets/images/cap2/Entrevista3.2.png)**
+      **![cap2]/assets/images/cap2/Entrevista3.2.png)**
     * **Video URL:**
 
       [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
@@ -312,27 +284,15 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     * **Timing: 01:14:52 \- 01:21:57**
     * **Resumen:**
 
-
-
       Alejandro Rodríguez, de 37 años, es propietario de un bar de tamaño mediano ubicado en Lima, con varios años de funcionamiento. Su negocio se orienta a un público joven y adulto joven. Alejandro proyecta una personalidad organizada, analítica y con interés en mantener control operativo, aunque delega parte de la gestión a su equipo. Muestra predisposición al uso de la tecnología, aunque prefiere mantener una supervisión directa de los procesos administrativos.
-
-      
 
       En cuanto al uso de tecnología, su dinámica de trabajo se apoya principalmente en smartphones y laptops. Los smartphones se emplean para la coordinación rápida de inventarios y pedidos, mientras que la laptop es su herramienta preferida para redactar reportes, realizar facturación y revisar detalles administrativos. No menciona el uso de software especializado, sino herramientas comunes y accesibles, lo que indica un nivel medio de digitalización.
 
-      
-
       Alejandro utiliza WhatsApp como medio principal para interactuar con proveedores, destacando su rapidez y practicidad. Para proveedores más grandes o con mayor formalidad, recurre al correo electrónico o a los perfiles corporativos de las empresas, lo que refleja adaptabilidad según el tipo de interlocutor. Son herramientas con procesos lentos o no estandarizados para adoptarlo como regla dentro de un negocio formal.
-
-      
 
       Por consiguiente, el usuario nos indicó como dificultades frecuentes los retrasos en pedidos, cambios de última hora de la llegada de su mercancía, modificaciones de precios sin previo aviso y problemas de productos dañados o mal empacados.
 
-      
-
       Alejandro enfatiza la necesidad de confirmaciones inmediatas de pedidos, visibilidad del estado de las entregas en tiempo real y la posibilidad de reportar incidentes o inconvenientes directamente en una plataforma. Muestra especial interés en contar con un sistema integrado y automatizado, con notificaciones automáticas, checklists previos a despachos y seguimiento centralizado de todo el proceso logístico. Considera que esto permitiría reducir errores y mejorar la comunicación con proveedores y repartidores.
-
-      
 
       En general, es un usuario pragmático, tecnológicamente activo pero no especializado. Sus hábitos digitales se apoyan en herramientas cotidianas (WhatsApp, correo, laptop), y su visión de mejora está centrada en la automatización y la trazabilidad a favor de su negocio.
 
@@ -341,7 +301,7 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     * **Edad:** 27 años
     * **Distrito:** Trujillo
     * **Screenshot:**
-      **![cap2](/assets/images/cap2/Entrevista3.3.png)**
+      **![cap2](assets/images/cap2/Entrevista3.3.png)**
     * **Video URL:**
 
       [**https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201\_upc\_edu\_pe/Es8K6\_X\_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN**](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211c201_upc_edu_pe/Es8K6_X_xsJHrlv-dxhmHkABEHjeQZwvaX-u0im39rLfLQ?e=p8hklN)
@@ -349,19 +309,11 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     * **Timing: 01:25:36 \- 01:30:20**
     * **Resumen:**
 
-
-
       Encargado de la logística en una tienda de abarrotes ubicada en Trujillo, lidera un negocio con seis años de operación y una clientela consolidada, especialmente activa en épocas de alta demanda como festividades y fines de semana. A pesar de su juventud, demuestra una personalidad organizada, práctica y con enfoque operativo, combinando responsabilidad administrativa con adaptabilidad ante la presión estacional del mercado.
-
-      
 
       En términos tecnológicos, Bruno utiliza el smartphone como herramienta principal para la gestión rápida de pedidos y la comunicación con proveedores, mientras que la PC se emplea para las tareas de inventario. Sin embargo, su gestión de inventarios aún mantiene un componente manual o semi digital, apoyándose en cuadernos o archivos de Excel, lo que evidencia una transición parcial hacia la digitalización.
 
-      
-
       En cuanto a los criterios de selección de proveedores, Bruno prioriza la puntualidad, estabilidad de precios, disponibilidad de stock y facilidad de pago, evidenciando una visión pragmática centrada en la fiabilidad operativa. Prefiere planificar los pedidos con anticipación, aunque admite que en ocasiones deben realizar pedidos de emergencia cuando el stock disminuye inesperadamente.
-
-      
 
       Entre las dificultades más comunes, menciona los retrasos en las entregas, falta de stock, comunicación deficiente y cambios sin previo aviso, factores que afectan la eficiencia logística y la capacidad de respuesta ante la demanda.
 
@@ -422,8 +374,6 @@ El análisis de entrevista profundiza en la comprensión de las necesidades o co
   Este segmento corresponde a pequeños comerciantes minoristas con entre 2 y 3 años de experiencia consolidando su negocio propio.
 
 
-
-
 | Característica | Mención | % | Evidencia |
 | ----- | :---: | :---: | ----- |
 | Perfil organizado y orientado al control operativo | 3/3 | 100% | Los tres entrevistados priorizan la planificación, el control de inventarios y la gestión directa de pedidos. |
@@ -451,17 +401,17 @@ En esta sección se presentan tres User Personas que representan los segmentos c
 * **Segmento 1: Empresas de transporte de camiones**
 
 El User Persona Jorge Mendoza representa a los transportistas independientes de carga pesada, encargados de trasladar bebidas entre distintas ciudades del país. Jorge tiene más de veinte años de experiencia en el rubro y trabaja con una flota envejecida que le genera dificultades operativas y pérdidas por rotura de botellas. Ha probado algunas herramientas de geolocalización, pero ninguna se adapta realmente a las condiciones de las rutas locales ni a su nivel de familiaridad digital. Su principal motivación es optimizar las rutas y reducir los costos de combustible y mantenimiento, logrando entregas puntuales que le permitan mantener su reputación y contratos. Busca una solución simple, accesible y confiable que le permita monitorear su carga sin depender de procesos manuales o llamadas telefónicas.  
-![cap2](/assets/images/cap2/User-person.1.png)
+![cap2](assets/images/cap2/User-person.1.png)
 
 * **Segmento 2: Proveedores de licores**
 
 El User Persona Andrea Flores representa a las distribuidoras de licores, responsables de garantizar que los pedidos lleguen completos y en buen estado. Andrea gestiona la logística de distribución para bares y restaurantes en Lima, y con frecuencia enfrenta pérdidas por robos parciales o botellas dañadas durante el transporte. Aunque ha implementado algunos sistemas de control, estos suelen ser costosos o poco adaptables a las necesidades de su empresa. Su motivación principal es contar con trazabilidad total de la carga y minimizar los riesgos en cada entrega, asegurando la confianza de sus clientes. Busca una plataforma que le ofrezca visibilidad en tiempo real, alertas automáticas y reportes simples que le permitan tomar decisiones rápidas sin depender de múltiples canales de comunicación.  
-![cap2](/assets/images/cap2/User-person.2.png)
+![cap2](assets/images/cap2/User-person.2.png)
 
 * **Segmento 3: Dueños de negocios**
 
 Por su parte, el User Persona José Álvarez representa a los dueños de bares y licorerías, quienes dependen de la puntualidad de sus proveedores para mantener el flujo de ventas. José administra un bar en Miraflores y ha tenido que lidiar con entregas tardías o incompletas que afectan directamente su inventario y promociones. Ha intentado llevar un control de pedidos mediante hojas de cálculo y mensajería, pero estos métodos le resultan ineficientes y poco precisos. Su motivación principal es contar con un sistema que le brinde transparencia y puntualidad en los pedidos, permitiéndole planificar mejor sus compras y evitar pérdidas por falta de stock. Busca una herramienta intuitiva, visual y de fácil acceso que le permita recibir notificaciones de entrega en tiempo real y mantener comunicación directa con sus proveedores.  
-![cap2](/assets/images/cap2/User-person.3.png)
+![cap2](assets/images/cap2/User-person.3.png)
 
 ### 2.3.2. User Task Matrix.
 
@@ -511,33 +461,33 @@ Los segmentos considerados para este análisis son:
 
 * **Segmento 1: Empresas de transporte de camiones**
 
-  ![cap2](/assets/images/cap2/User-Journey-Mapping.1.png)
+  ![cap2](assets/images/cap2/User-Journey-Mapping.1.png)
 
 * **Segmento 2: Proveedores de licores**
 
-  ![cap2](/assets/images/cap2/User-Journey-Mapping.2.png)
+  ![cap2](assets/images/cap2/User-Journey-Mapping.2.png)
 
 * **Segmento 3: Dueños de negocios**
 
-  ![cap2](/assets/images/cap2/User-Journey-Mapping.3.png)
+  ![cap2](assets/images/cap2/User-Journey-Mapping.3.png)
 
 ### 2.3.4. Empathy Mapping.
 
 * **Segmento 1: Empresas de transporte de camiones**
 
-  ![cap2](/assets/images/cap2/Empathy-Mapping.1.png)
+  ![cap2](assets/images/cap2/Empathy-Mapping.1.png)
 
 * **Segmento 2: Proveedores de licores**
 
-  ![cap2](/assets/images/cap2/Empathy-Mapping.2.png)
+  ![cap2](assets/images/cap2/Empathy-Mapping.2.png)
 
 * **Segmento 3: Dueños de negocios**
 
-  ![cap2](/assets/images/cap2/Empathy-Mapping.3.png)
+  ![cap2](assets/images/cap2/Empathy-Mapping.3.png)
 
 ## 2.4. Big Picture Event Storming.
 
-  ![cap2](/assets/images/cap2/Event.Storming.png)
+  ![cap2](assets/images/cap2/Event.Storming.png)
 
 ## 2.5. Ubiquitous Language.
 
@@ -609,3 +559,4 @@ revisión
 | External Provider | Proveedor externo | Actor o empresa que ejecuta servicios subcontratados. |
 | Notification Service | Servicio de notificaciones | Sistema externo que envía correos, SMS o push. |
 | Logistics Partner | Socio logístico | Entidad que apoya en la ejecución o entrega de servicios. |
+

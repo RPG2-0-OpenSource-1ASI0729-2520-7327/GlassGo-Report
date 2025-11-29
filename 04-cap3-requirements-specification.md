@@ -79,7 +79,7 @@ Each story clearly defines who the user is, what they want to achieve, and their
 | US-50 | Incidents and Damage Report | **As an** administrator, **I want** to generate a consolidated report of incidents **so that** I can analyze causes and trends. | **Given** that impact events are recorded, **When** the report is generated, **Then** the system classifies incidents by type and frequency. | E-5 |
 
 | Epic / Story ID | Title | Description | Acceptance Criteria | Related to (Epic ID) |
-| :---: | ----- | ----- | ----- | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | E-6 | Business Web and Visitor Experience | Stories focused on visitors to the GlassGo website and institutional communication. | N/A | N/A |
 | US-51 | General Information Display | **As a** visitor, **I want** to know the service description **so that** I understand its purpose. | **Given** that the visitor accesses the website, **When** they visit the “About GlassGo” section, **Then** they see information about the company and its objectives. | E-6 |
 | US-52 | Access to Landing Page Sections | **As a** visitor, **I want** to navigate easily between sections **so that** I can explore the content. | **Given** that the visitor is on the main page, **When** they select a menu link, **Then** the system redirects them to the corresponding section. | E-6 |
@@ -100,7 +100,7 @@ Each story clearly defines who the user is, what they want to achieve, and their
 
 *Impact Mapping* was used as a strategic tool to connect business objectives with the expected actions and behaviors of users. This method allowed us to identify the main actors, their impact on achieving goals, and the deliverables necessary to drive those changes. In the context of **GlassGo**, the impact map facilitated alignment between *Business Goals* and the requirements of the digital product, ensuring that each development directly contributes to fulfilling the project’s objectives.
 
-![cap3](/assets/images/cap3/Impact1.png)
+![cap3](assets/images/cap3/Impact1.png)
 
 ## 3.3. Product Backlog
 
