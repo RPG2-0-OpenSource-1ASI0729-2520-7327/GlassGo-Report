@@ -88,4 +88,3 @@ Link Github: https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327
 
 # Tabla de contenidos
 
-## [Capítulo I: Introducción](cap1-introduction.md)
