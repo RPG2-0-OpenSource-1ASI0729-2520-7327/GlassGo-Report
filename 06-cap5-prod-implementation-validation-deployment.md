@@ -401,3 +401,135 @@ xxxx
 Seguimos usando ramas específicas para cada sección o funcionalidad (feature/\[nombre-de-seccion\]), permitiendo un trabajo paralelo organizado.
 
 Cada miembro del equipo asumió la responsabilidad de desarrollar una o más boundeds del Backend. Se realizaron commits frecuentes, registrando avances de manera continua y detallada.
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4\.
+
+xxxx
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+xxx
+
+#### 5.2.4.3. Sprint Backlog 4\.
+
+xxx
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+xxxx
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+xxx
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+xxx
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+xxx
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+xxx
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+Para garantizar que la aplicación cumpla con las necesidades reales de los usuarios finales, se diseñó un proceso de entrevistas de validación centrado en dos segmentos objetivos clave: **dueños de negocio** y **proveedores de licores**. Cada sesión de validación incluirá interacción con el **Landing Page** y la **aplicación web** (desktop y mobile), siguiendo flujos de usuario específicos que cubren funcionalidades críticas del sistema.
+
+**Objetivo General**
+
+Validar la usabilidad, comprensión y utilidad de las funcionalidades del sistema a través de sesiones controladas de interacción, aplicando principios de evaluación heurística y recogiendo observaciones cualitativas.
+
+**Segmento 1: Dueños de negocio**
+
+Elementos a validar:
+
+- Claridad del valor ofrecido en el landing page.
+- Registro y gestión de insumos.
+- Gestión de lotes e inventario.
+- Gestión de ventas y recetas.
+- Visualización y selección de proveedores.
+- Realización y seguimiento de pedidos.
+- Panel de alertas y resúmenes.
+
+Flujos de Usuario a evaluar:
+
+- **Desktop & Mobile User Flow 1:** Suscripción y pago con Stripe.
+- **Desktop & Mobile User Flow 3:** Registro y gestión de insumos.
+- **Desktop & Mobile User Flow 4:** Resumen e indicadores.
+- **Desktop & Mobile User Flow 5:** Visualización de proveedores y productos.
+- **Desktop & Mobile User Flow 6:** Seguimiento de pedidos.
+- **Desktop & Mobile User Flow 7:** Comentarios a proveedores.
+- **Desktop & Mobile User Flow 8:** Registro y visualización de ventas.
+- **Desktop & Mobile User Flow 9:** Creación y gestión de recetas.
+
+Actividades durante la sesión:
+
+1. Navegar el Landing Page y explicar lo que entienden del producto.
+2. Simular una suscripción desde un plan.
+3. Usar el módulo de inventario: registrar, editar y filtrar insumos.
+4. Acceder al panel de resumen y describir lo que entienden.
+5. Navegar por proveedores, seleccionar uno y simular una orden.
+6. Realizar comentarios sobre proveedores.
+7. Registrar una venta.
+8. Crear una receta.
+
+**Segmento 2: Proveedores de Licores**
+
+Elementos a validar:
+
+- Claridad del valor en el Landing Page.
+- Gestión de catálogo de productos.
+- Eliminación de insumos no disponibles.
+- Revisión de pedidos realizados por restaurantes.
+- Interacción con comentarios recibidos.
+
+Flujos de Usuario a evaluar:
+
+- **Desktop & Mobile User Flow 1:** Suscripción y pago.
+- **Desktop & Mobile User Flow 10:** Registro y gestión de productos en el catálogo.
+- **Desktop & Mobile User Flow 11:** Eliminación de insumos.
+- **Desktop & Mobile User Flow 12:** Gestión de órdenes recibidas.
+- **Desktop & Mobile User Flow 13:** Panel principal del proveedor.
+
+Actividades durante la sesión:
+
+1. Explorar el Landing Page y describir su comprensión del producto.
+2. Simular el proceso de registro y suscripción.
+3. Ingresar al sistema y registrar productos en su catálogo.
+4. Eliminar productos del catálogo.
+5. Revisar pedidos recibidos de restaurantes.
+6. Comentar sobre la utilidad de la interfaz de pedidos y feedback.
+
+**Herramientas y Recursos para Validación**
+
+- **Formato de Evaluación Heurística:** Se aplicarán los 10 principios heurísticos de Nielsen en cada sesión.
+- **Instrumento de observación:** Lista de verificación + sección de notas abiertas.
+- **Grabación de pantalla y voz:** previa autorización, para análisis posterior.
+
+### 5.3.2. Registro de Entrevistas.
+
+xxx
+
+### 5.3.3. Evaluación según heurísticas.
+
+xxx
+
+## 5.4. Video About-the-Product.
+
+A continuación, se presenta el video "About the Product" del sistema GlassGo, una solución tecnológica desarrollada para digitalizar y automatizar la gestión de inventarios y pedidos de bares. Este video está dirigido principalmente a los visitantes del Landing Page, quienes desean conocer el modelo de negocio y las principales funcionalidades de la plataforma, así como a los usuarios potenciales de las aplicaciones, interesados en realizar tareas relacionadas con los procesos soportados por la solución.
+
+El video comunica de forma clara y dinámica el propósito del producto, mostrando cómo GlassGo ayuda a reducir el desperdicio, mejorar la eficiencia operativa y fortalecer la relación entre dueños de negocios y proveedores de licores. Se utiliza un tono consistente con la propuesta visual y comunicacional del producto, combinando narración, demostraciones de uso y escenarios reales.
+
+Como parte de la validación del producto, se incluye también el testimonio de un dueño de negocio entrevistado en la etapa de descubrimiento.
+
+A continuación, se incluye un screenshot del video, junto con los enlaces de la versión publicada en Microsoft Stream y YouTube, y el detalle del timing.
+
+
+Link: 
