@@ -54,12 +54,6 @@ _Diciembre 2025_
 |   2.4   | 14/11/25 | David Ignacio Vivar Cesar | Desarrollo de los bounded context de Loyalty & Engagerment y System Administration |
 |   3.1   | 14/11/25 | Mike Dylan Guillen Giraldo | Desarrollo de los bounded context de Service Planning y Profile & Preferences |
 |   3.2   | 14/11/25 | Céspedes Pillco Jarod Jack | Desarrollo de los bounded context de Paymets & Subscriptions y Idenyity & Access |
-|   3.3   |  | Guillermo Arturo Howard Robles |  |
-|   3.4   |  | David Ignacio Vivar Cesar |  |
-|   3.5   |  | Mike Dylan Guillen Giraldo |  |
-|   4.1   |  | Céspedes Pillco Jarod Jack  |  |
-|   4.2   |  | Céspedes Pillco Jarod Jack  |  |
-|   5.1   |  | Céspedes Pillco Jarod Jack  |  |
 
 ---
 

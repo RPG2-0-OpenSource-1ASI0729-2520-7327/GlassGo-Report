@@ -1,0 +1,15 @@
+<div style="page-break-after: always;"></div>
+
+# Conclusiones y Recomendaciones
+
+## Conclusiones
+
+Durante el desarrollo del proyecto _GlassGo_, hemos logrado identificar y comprender las necesidades del mercado objetivo, así como diseñar una solución tecnológica que responde a dichas necesidades. A través de un análisis exhaustivo y la aplicación de metodologías ágiles, hemos podido iterar sobre nuestro producto, mejorando su funcionalidad y usabilidad.
+
+## Recomendaciones
+
+- Se recomienda realizar pruebas de usabilidad con usuarios finales para obtener retroalimentación directa y mejorar la experiencia del usuario.
+
+## **Video About-the-Team**
+
+A continuación, encontrará una captura de pantalla del vídeo, junto con enlaces a la versión publicada en Microsoft Stream y YouTube.
