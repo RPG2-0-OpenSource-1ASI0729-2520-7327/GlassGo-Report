@@ -303,24 +303,21 @@ Trello: [https://trello.com/invite/b/69000cde1e1959306e4d45ba/ATTIeabfa518f63107
 
 En esta sección se presentan los avances realizados durante el Sprint 2, centrado en el desarrollo de los módulos principales de la aplicación web interna de GlassGo. El objetivo principal fue implementar funcionalidades claves para la gestión de productos, inventario y resumen, con el fin de mejorar la eficiencia operativa y la trazabilidad de los recursos dentro de los administradores de restaurantes y proveedores.
 
-| Repository | Branch | Author | Commit Id | Commit Message |
-| ----- | ----- | ----- | ----- | ----- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-xxxx
+A continuación se muestra el video del frontend interno de la aplicación web. Este muestra la interacción de los usuarios autenticados con los módulos principales del sistema, incluyendo la navegación por la barra lateral, la gestión de productos, el seguimiento de alertas y el control de inventario.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-xxxx
+Durante este Sprint, se avanzó en el desarrollo del frontend interno de GlassGo, que permite múltiples rutas navegables para usuarios autenticados (administradores de restaurantes y proveedores), en una estructura basada en Vue Router, Diseño Orientado al Dominio y componentes de carga dinámica. Si bien los endpoints REST aún no se han documentado con OpenAPI, los recursos navegables disponibles que forman parte del ecosistema de consumo de servicios web del sistema se despliegan a continuación.
+
+Descripción del Logro:
+
+Finalización de la página de destino e implementación multilingüe.
+
+Desarrollo de un frontend modular con rutas específicas por rol (restaurante y proveedor).
+Estructura basada en Vue Router, DDD y carga diferida de componentes.
+Integración visual con PrimeVue y mejores prácticas para la separación por contextos. Rutas del sistema accesibles (Frontend)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
@@ -328,7 +325,17 @@ xxxx
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-xxxx
+Durante el sprint, se adoptaron estrategias de colaboración eficaces que permitieron un desarrollo del proyecto fluido y bien organizado. Las prácticas aplicadas fueron las siguientes:
+
+Se crearon ramas específicas por funcionalidad o sección, siguiendo la convención feature/\[nombre-de-la-sección\]. Esto facilitó el trabajo en paralelo sin conflictos y mantuvo la estructura del repositorio.
+
+Cada miembro fue responsable del desarrollo de una o más secciones del frontend, distribuyendo el trabajo de forma equitativa.
+Se realizaron commits frecuentes y atómicos, lo que permitió un seguimiento detallado del progreso y facilitó la revisión del código.
+
+Todas las funcionalidades se integraron mediante solicitudes de incorporación de cambios a la rama de desarrollo, lo que garantizó el control de calidad mediante revisiones cruzadas.
+
+La comunicación entre los miembros del equipo fue constante, utilizando la plataforma Discord como canal principal para la coordinación diaria, la resolución de dudas y la toma de decisiones técnicas. Se aplicaron buenas prácticas de control de versiones con Git, como descripciones claras de las confirmaciones, ramas temáticas y revisión colaborativa mediante solicitudes de cambio.
+El equipo también se centró en la calidad del código, utilizando estructuras consistentes, siguiendo los estándares de codificación y garantizando la coherencia de estilos y convenciones.
 
 ### 5.2.3. Sprint 3
 
@@ -386,15 +393,27 @@ Web Services (Backend):
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
-xxxx
+A continuación, se muestra un video con los avances realizados durante el Sprint 3, en el cual se trabajó en la landing page, así como en el desarrollo del frontend y backend.
+
+https://youtu.be/fgSdkh02vZo
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-xxxx
+Durante este sprint se completó al 100% el desarrollo del Landing Page del sistema, consolidando su estructura visual, diseño responsivo, traducción multilenguaje y funcionalidades de navegación. Asimismo, se avanzó de forma significativa en la construcción del frontend del sistema, incluyendo componentes claves como el menú lateral, el dashboard inicial, el módulo de gestión de insumos y la arquitectura modular en Angular bajo DDD (Domain-Driven Design).
+
+Aunque no se desplegaron endpoints REST aún, se documentan a continuación los recursos y avances relevantes del sprint, junto con evidencia de despliegue y repositorio de código.
+
+Descripción del Logro:
+
+Finalización del Landing Page (100%).  
+Implementación completa de diseño responsivo, i18n, y redirecciones funcionales.  
+Estructura de frontend modular iniciada (menu sidebar, dashboard y componentes base).  
+Aplicación de buenas prácticas de organización por bounded contexts en Angular.  
+Integración visual basada en Vue con VuePrime y Primeflex.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
-xxxx
+Durante este sprint, se realizaron actividades de despliegue y pruebas de los servicios desarrollados, asegurando que las funcionalidades del sistema estén operativas y accesibles para los usuarios finales. A continuación, se detallan los pasos realizados:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
@@ -406,48 +425,78 @@ Cada miembro del equipo asumió la responsabilidad de desarrollar una o más bou
 
 #### 5.2.4.1. Sprint Planning 4\.
 
-| Sprint \# | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ----- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Date | 2025-11-13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Time | 08:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Location | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Prepared By | Howard Robles, Guillermo Arturo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Attendees (to planning meeting) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Sprint 2 Review Summary |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Sprint 2 Retrospective Summary | Durante el Sprint 1, el equipo logró avanzar de forma coordinada y efectiva en el desarrollo de la landing page, sin enfrentar mayores dificultades. Cada integrante cumplió puntualmente con las secciones asignadas, lo que permitió avanzar según lo planificado. La adopción de convenciones comunes en el código y el diseño contribuyó a mantener la coherencia del producto y facilitó la integración entre partes. Como mejora para el siguiente sprint, se acordó implementar revisiones diarias (daily reviews) que permitan alinear mejor los avances, detectar bloqueos tempranos y mejorar la comunicación continua entre miembros. |
-| Sprint Goal & User Stories |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Sprint 3 Goal | Nuestro enfoque está en entregar la primera versión funcional del backend de GlassGo, permitiendo gestionar usuarios, pedidos, rutas y notificaciones, así como exponer APIs seguras para el consumo del frontend. Creemos que esto habilita la operación centralizada y confiable de la plataforma, facilitando la integración y el flujo de información entre todos los actores de la cadena logística. Esto se confirmará cuando el frontend pueda consumir los servicios principales, los datos se almacenen y consulten correctamente, y los usuarios reporten que las funcionalidades clave están disponibles y operativas.                |
-| Sprint 3 Velocity | 50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Sum of Story Points | 47                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sprint \#                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Date                            | 2025-11-29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Time                            | 06:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Location                        | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Prepared By                     | Howard Robles, Guillermo Arturo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Attendees (to planning meeting) | .Guillermo Arturo Howard Robles / Jarod Cespedes / David Vivar Cesar / Myke Guillen Giraldo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Sprint 3 Review Summary         | Durante el Sprint 3 se logró integrar las funcionalidades esenciales para la gestión de pedidos y ventas de licores, así como la visualización de los pedidos y perfil. Se implementaron flujos completos en frontend y backend para los administradores de dueños de neogios y proveedores. El equipo demostró gran compromiso y coordinación, permitiendo avances notables en la implementación de casos de uso claves. Sin embargo, se identificaron oportunidades de mejora en la automatización de pruebas y en la gestión de errores complejos.                                                                                                                                                                                                                                                                       |
+| Sprint 3 Retrospective Summary  | El equipo mantuvo una comunicación activa y resolvió bloqueos técnicos con rapidez, destacando el soporte mutuo entre miembros. Se identificó que algunos endpoints requerían mejoras en validación y documentación, lo que motivó a priorizar en este nuevo sprint las tareas técnicas orientadas a robustecer los servicios RESTful, implementar nuevas funcionalidades de cuenta (generación de tablas, eliminación, cambio de contraseña) y finalizar la lógica de notificaciones y feedback. Como mejora clave se acordó dividir mejor las tareas de testing y codificación para asegurar calidad sin comprometer la velocidad de entrega.                                                                                                                                                                             |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Sprint 4 Goal                   | Nuestro enfoque está en mejorar la experiencia de los dueños de negocios y proveedores de licores, mediante la implementación completa de funcionalidades clave del perfil, además de finalizar flujos críticos como la gestión de ventas y la gestión de insumos. En paralelo, proporcionar, mediante el API de la plataforma, puntos de accesos a los desarrolladores frontend para que implementen funcionalidades relacionadas con perfiles, gestión de insumos, inicio de sesión y registro validados. Creemos que esto ofrece un flujo de usuario más seguro, al proteger el ingreso de a la plataforma; agiliza las operaciones para los dueños de negocio, al facilitar la creación y gestión de insumos; optimiza el tiempo operativo para los proveedores, al permitir el seguimiento de sus insumos disponibles. |
+| Sprint 4 Velocity               | 48                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Sum of Story Points             | 46                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 
-xxx
+Durante el Sprint 4, se ha definido el desarrollo e integración de los módulos principales del frontend de la aplicación web interna Restock y del backend, abarcando funcionalidades clave como la gestión de productos, pedidos, inventario y compras. Estas implementaciones buscan optimizar los procesos internos y mejorar la trazabilidad del inventario, brindando mayor eficiencia a los repartidores y dueños de negocios.
+
+| Team Member (Last Name, First Name) | GitHub Username | Profile & References  | Paymets & Subscriptions  | Loyalty & Engagerment  | Service Planning  | System Administration  | Service Execution & Monitoring | Dashboard & Analytics |
+| ----- | ----- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Howard Robles Guillermo Arturo | GuillermoPromac | C | C | C | C | C | L | L |
+| Cespedes Pillco Jarod Jack | PruebaJJC | C | L | C | C | C | C | C |
+| Vivar Cesar David Ignacio | DarkBeider20 | C | C | L | C | L | C | C |
+| Guillen Giraldo Mike Dylan | FulLHous | L | C | C | L | C | C | C |
 
 #### 5.2.4.3. Sprint Backlog 4\.
 
-xxx
+El objetivo principal de este Sprint es consolidar una experiencia funcional completa para los distintos perfiles de usuario dentro de la plataforma GlassGo. Se prioriza la mejora de la landing page para comunicar eficazmente la propuesta de valor a nuevos visitantes, así como la habilitación de módulos clave como la gestión de ventas, recetas y pedidos para los administradores de restaurantes, y la gestión de órdenes para los proveedores.
+
+Asimismo, se trabajará en la integración del flujo de pagos por suscripción y en la provisión de APIs REST documentadas, permitiendo al equipo frontend consumir endpoints de forma eficiente para construir las vistas requeridas. Este enfoque integral busca mejorar la usabilidad, operatividad y cohesión entre el frontend y backend, facilitando la validación funcional de la plataforma y avanzando hacia su adopción por parte de los usuarios finales.
+
+Trello: [https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3](https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3)
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
-xxxx
+Web Services (Backend):
+
+En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de pedios, suministros y lotes. Se implementaron un manejo detallado para los insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-xxx
+A continuación, se muestra un video con los avances realizados durante el Sprint 3, en el cual se trabajó en la landing page, así como en el desarrollo del frontend y backend.
+
+https://youtu.be/fgSdkh02vZo
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
-xxx
+Durante este sprint se completó al 100% el desarrollo del Landing Page del sistema, consolidando su estructura visual, diseño responsivo, traducción multilenguaje y funcionalidades de navegación. Asimismo, se avanzó de forma significativa en la construcción del frontend del sistema, incluyendo componentes claves como el menú lateral, el dashboard inicial, el módulo de gestión de insumos y la arquitectura modular en Angular bajo DDD (Domain-Driven Design).
+
+Aunque no se desplegaron endpoints REST aún, se documentan a continuación los recursos y avances relevantes del sprint, junto con evidencia de despliegue y repositorio de código.
+
+Descripción del Logro:
+
+Finalización del Landing Page (100%).  
+Implementación completa de diseño responsivo, i18n, y redirecciones funcionales.  
+Estructura de frontend modular iniciada (menu sidebar, dashboard y componentes base).  
+Aplicación de buenas prácticas de organización por bounded contexts en Angular.  
+Integración visual basada en Vue con VuePrime y Primeflex.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-xxx
+Web Services (Backend):
+
+En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de pedios, suministros y lotes. Se implementaron un manejo detallado para los insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
-xxx
+Seguimos usando ramas específicas para cada sección o funcionalidad (feature/\[nombre-de-seccion\]), permitiendo un trabajo paralelo organizado.
+
+Cada miembro del equipo asumió la responsabilidad de desarrollar una o más boundeds del Backend. Se realizaron commits frecuentes, registrando avances de manera continua y detallada. Las funcionalidades desarrolladas se integraron mediante Pull Requests hacia la rama develop. Se mantuvo una comunicación constante mediante la plataforma Discord para coordinar avances y resolver dudas en tiempo real. Se aplicaron buenas prácticas de programación, control de versiones y colaboración en equipo.
+
 
 ## 5.3. Validation Interviews.
 
@@ -471,8 +520,12 @@ Elementos a validar:
 
 Flujos de Usuario a evaluar:
 
-- **Desktop & Mobile User Flow 1:** Registro y gestión de insumos.
-
+- **Desktop & Mobile User Flow 1:** Registro y gestión de suministros..
+- **Desktop & Mobile User Flow 4:** Resumen del producto.
+- **Desktop & Mobile User Flow 5:** Visualización de pedidos.
+- **Desktop & Mobile User Flow 6:** Seguimiento de pedidos.
+- **Desktop & Mobile User Flow 7:** Reclamaciones a proveedores.
+- 
 Actividades durante la sesión:
 
 1. Explorar el Landing Page y describir su comprensión del producto.
@@ -499,7 +552,11 @@ Elementos a validar:
 
 Flujos de Usuario a evaluar:
 
-- **Desktop & Mobile User Flow 1:** Registro y gestión de insumos.
+- **Desktop & Mobile User Flow 1:** Registro y gestión de suministros..
+- **Desktop & Mobile User Flow 4:** Resumen del producto.
+- **Desktop & Mobile User Flow 5:** Visualización de pedidos.
+- **Desktop & Mobile User Flow 6:** Seguimiento de pedidos.
+- **Desktop & Mobile User Flow 7:** Reclamaciones a proveedores.
 
 Actividades durante la sesión:
 
@@ -580,30 +637,31 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **TABLA RESUMEN**
 
-| #  | Problema | Escala de severidad | Heurística / Principio violado |
-| -- |----------| ------------------- |--------------------------------|
-| 1  | SSS      | 2                   | Usabilidad: sss                |
-| 2  | SSS      | 1                   | Usabilidad: sss                |
+| #  | Problem                                                | Severity Scale | Heuristic / Principle Violated |
+| -- |--------------------------------------------------------|----------------|--------------------------------|
+| 1  | No existen filtros para los productos en el inventario | 3              | Usabilidad: Flexibilidad y eficiencia de uso                  |
+| 2  | Flujo de creacion de reclamos mas concistente          | 3              | Usabilidad: Libertad y control del usuario                  |
 
 ---
 
-**DESCRIPCIÓN DE PROBLEMAS**
+**PROBLEM DESCRIPTION**
 
-**PROBLEMA #1:**
-**Severidad:** 
-**Heurística violada:** 
-**Problema:** 
-**Evidencia:** 
-**Recomendación:** 
+**PROBLEM #1: No existen filtros para los productos en el inventario**
+**Severity:** 3
+**Violated Heuristic:** Usabilidad - Flexibilidad y eficiencia de uso
+**Problem:** Actualmente, el sistema no ofrece opciones de filtrado para los productos en el inventario, lo que dificulta la localización rápida de artículos específicos, especialmente cuando el inventario es extenso.
+**Evidence:** EL usuario indicó: "Para encontrar un producto específico, tengo que desplazarme por toda la lista, lo que consume mucho tiempo y es frustrante."
+**Recommendation:** Implementar funcionalidades de filtrado y búsqueda en la sección de inventario, permitiendo a los usuarios filtrar productos por categorías, nombres, fechas de ingreso, entre otros criterios relevantes. Esto mejorará significativamente la eficiencia en la gestión del inventario.
 
 ---
 
-**PROBLEMA #2:**
-**Severidad:**
-**Heurística violada:**
-**Problema:**
-**Evidencia:**
-**Recomendación:**
+**PROBLEM #2: Flujo de creacion de reclamos mas consistent**
+**Severity:** 3
+**Violated Heuristic:** Usabilidad - Libertad y control del usuario
+**Problem:** El flujo actual para la creación de reclamos no es intuitivo ni consistente, lo que genera confusión entre los usuarios y dificulta la presentación de reclamos de manera efectiva.
+**Evidence:** El usuario indicó: "Para crear un reclamo de un pedido en especifico seria mejor añadir una opcion para que genere el reclamo".
+**Recommendation:** Rediseñar el flujo de creación de reclamos para que sea más intuitivo y consistente. Esto podría incluir la adición de un botón directo en la sección de pedidos para iniciar un reclamo, así como proporcionar instrucciones claras y pasos guiados durante el proceso.
+
 
 ---
 

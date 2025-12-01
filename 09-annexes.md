@@ -24,3 +24,9 @@
 
 ## Anexo C. Diagrama de Base de Datos
 
+- Link del repositorio Github del proyecto: https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327
+
+<img src="assets/images/annexes/Github.png" alt=“Descargar” >
+
+<div class="page"></div>
+
