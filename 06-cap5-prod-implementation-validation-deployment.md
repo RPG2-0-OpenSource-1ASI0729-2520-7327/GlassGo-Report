@@ -446,66 +446,27 @@ Para garantizar que la aplicación cumpla con las necesidades reales de los usua
 
 Validar la usabilidad, comprensión y utilidad de las funcionalidades del sistema a través de sesiones controladas de interacción, aplicando principios de evaluación heurística y recogiendo observaciones cualitativas.
 
-**Segmento 1: Dueños de negocio**
+**Segmento 1: Proveedores de Licores**
 
 Elementos a validar:
 
-- Claridad del valor ofrecido en el landing page.
-- Registro y gestión de insumos.
-- Gestión de lotes e inventario.
-- Gestión de ventas y recetas.
-- Visualización y selección de proveedores.
-- Realización y seguimiento de pedidos.
-- Panel de alertas y resúmenes.
+- Creación de orden de compra. 
+- Seguimiento de pedidos.
+- Gestión de inventario de insumos.
+- Creación de tablas de productos.
+- Registro de historial.
 
 Flujos de Usuario a evaluar:
 
-- **Desktop & Mobile User Flow 1:** Suscripción y pago con Stripe.
-- **Desktop & Mobile User Flow 3:** Registro y gestión de insumos.
-- **Desktop & Mobile User Flow 4:** Resumen e indicadores.
-- **Desktop & Mobile User Flow 5:** Visualización de proveedores y productos.
-- **Desktop & Mobile User Flow 6:** Seguimiento de pedidos.
-- **Desktop & Mobile User Flow 7:** Comentarios a proveedores.
-- **Desktop & Mobile User Flow 8:** Registro y visualización de ventas.
-- **Desktop & Mobile User Flow 9:** Creación y gestión de recetas.
-
-Actividades durante la sesión:
-
-1. Navegar el Landing Page y explicar lo que entienden del producto.
-2. Simular una suscripción desde un plan.
-3. Usar el módulo de inventario: registrar, editar y filtrar insumos.
-4. Acceder al panel de resumen y describir lo que entienden.
-5. Navegar por proveedores, seleccionar uno y simular una orden.
-6. Realizar comentarios sobre proveedores.
-7. Registrar una venta.
-8. Crear una receta.
-
-**Segmento 2: Proveedores de Licores**
-
-Elementos a validar:
-
-- Claridad del valor en el Landing Page.
-- Gestión de catálogo de productos.
-- Eliminación de insumos no disponibles.
-- Revisión de pedidos realizados por restaurantes.
-- Interacción con comentarios recibidos.
-
-Flujos de Usuario a evaluar:
-
-- **Desktop & Mobile User Flow 1:** Suscripción y pago.
-- **Desktop & Mobile User Flow 10:** Registro y gestión de productos en el catálogo.
-- **Desktop & Mobile User Flow 11:** Eliminación de insumos.
-- **Desktop & Mobile User Flow 12:** Gestión de órdenes recibidas.
-- **Desktop & Mobile User Flow 13:** Panel principal del proveedor.
+- **Desktop & Mobile User Flow 1:** Registro y gestión de insumos.
 
 Actividades durante la sesión:
 
 1. Explorar el Landing Page y describir su comprensión del producto.
-2. Simular el proceso de registro y suscripción.
+2. Simular el proceso de registro.
 3. Ingresar al sistema y registrar productos en su catálogo.
-4. Eliminar productos del catálogo.
-5. Revisar pedidos recibidos de restaurantes.
-6. Comentar sobre la utilidad de la interfaz de pedidos y feedback.
+4. Revisar pedidos recibidos.
+5. Comentar sobre la utilidad de la interfaz de pedidos y feedback.
 
 **Herramientas y Recursos para Validación**
 
@@ -513,13 +474,125 @@ Actividades durante la sesión:
 - **Instrumento de observación:** Lista de verificación + sección de notas abiertas.
 - **Grabación de pantalla y voz:** previa autorización, para análisis posterior.
 
+**Segmento 3: Dueños de negocio**
+
+Elementos a validar:
+
+- Creación de orden de compra.
+- Seguimiento de pedidos.
+- Gestión de inventario de insumos.
+- Creación de tablas de productos.
+- Registro de historial.
+
+Flujos de Usuario a evaluar:
+
+- **Desktop & Mobile User Flow 1:** Registro y gestión de insumos.
+
+Actividades durante la sesión:
+
+1. Explorar el Landing Page y describir su comprensión del producto.
+2. Simular el proceso de registro.
+3. Ingresar al sistema y registrar productos en su catálogo.
+4. Revisar pedidos recibidos.
+5. Comentar sobre la utilidad de la interfaz de pedidos y feedback.
+
 ### 5.3.2. Registro de Entrevistas.
 
-xxx
+Segmento 3: Dueños de negocio
+
+**Entrevista 1:**
+
+* **Nombre:** Alejandro Rodriguez
+* **Edad:** 37 años
+* **Distrito:** Lima Metropolitana
+* **Timing:** (00:00- 12:39 min)
+
+**![cap5](assets/images/cap5/Entrevista1.1.png)**
+
+Ver entrevista: https://tinyurl.com/3vn4bcyw
+
+**Resumen:**
+
+Alejandro Rodríguez, de 37 años, es propietario de un bar de tamaño mediano ubicado en Lima, con varios años de funcionamiento. Su negocio se orienta a un público joven y adulto joven. Alejandro proyecta una personalidad organizada, analítica y con interés en mantener control operativo, aunque delega parte de la gestión a su equipo. Muestra predisposición al uso de la tecnología, aunque prefiere mantener una supervisión directa de los procesos administrativos.
 
 ### 5.3.3. Evaluación según heurísticas.
 
-xxx
+**Carrera:** Ingeniería de Software
+**Curso:** Desarrollo de Aplicaciones Open Source
+**Sección:** 7327
+**Profesores:** Angel Velasquez
+**Auditor:** Guillermo Arturo Howard Robles
+**Cliente(s):** Alejandro Rodriguez
+
+**Site o App a evaluar:** GlassGo
+
+**Tareas evaluadas:**
+
+1. Creación de orden de compra
+2. Seguimiento de pedidos
+3. Gestión de inventario de insumos
+4. Creación de tablas de productos
+5. Registro de historial 
+
+---
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+    <tr>
+        <td>Nivel</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>
+</table>
+
+---
+
+**TABLA RESUMEN**
+
+| #  | Problema | Escala de severidad | Heurística / Principio violado |
+| -- |----------| ------------------- |--------------------------------|
+| 1  | SSS      | 2                   | Usabilidad: sss                |
+| 2  | SSS      | 1                   | Usabilidad: sss                |
+
+---
+
+**DESCRIPCIÓN DE PROBLEMAS**
+
+**PROBLEMA #1:**
+**Severidad:** 
+**Heurística violada:** 
+**Problema:** 
+**Evidencia:** 
+**Recomendación:** 
+
+---
+
+**PROBLEMA #2:**
+**Severidad:**
+**Heurística violada:**
+**Problema:**
+**Evidencia:**
+**Recomendación:**
+
+---
 
 ## 5.4. Video About-the-Product.
 
@@ -531,5 +604,3 @@ Como parte de la validación del producto, se incluye también el testimonio de 
 
 A continuación, se incluye un screenshot del video, junto con los enlaces de la versión publicada en Microsoft Stream y YouTube, y el detalle del timing.
 
-
-Link: 
