@@ -1,4 +1,3 @@
-
 <div align="center" style="border: 2px solid #000; padding: 20px; margin: 20px auto; max-width: 800px;">
 
 <img src="assets/images/readme/logo-upc.png" alt="Logo UPC" style="width: 150px; height: auto;" />
@@ -9,7 +8,7 @@
 
 **Carrera de _Ingeniería de Software_**
 
-**Ciclo:** _202520_
+**Ciclo: _202520_**
 
 **Código del curso: _1ASI0729_**
 
@@ -23,7 +22,7 @@
 
 ## Nombre del Startup
 
-**Nombre: _RPG2.0_** 
+**Nombre: _RPG2.0_**
 
 ## Nombre del Producto
 
@@ -63,26 +62,38 @@
 **_Diciembre 2025_**
 
 </div>
-
+ 
 ---
 
 <div style="page-break-after: always;"></div>
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|:-------:| ----- | ----- | ----- |
-|   1.1   | 18/09/2024 | Guillermo Arturo Howard Robles | Desarrollo de las secciones 2.1, 2.2, y aporte en el capítulo IV. |
-|   1.2   | 18/09/2024 | David Ignacio Vivar Cesar | Desarrollo de las secciones 2.2.2, 2.3 y realización del capítulo 3\. |
-|   1.3   | 18/09/2024 | Mike Dylan Guillen Giraldo | Desarrollo de las secciones 4.3 al 4.6 (diseño UX/UI de la página) y aporte en el 1.1 al 1.2.2. |
-|   1.4   | 09/10/2024 | Guillermo Arturo Howard Robles | Desarrollo de las secciones de entrevistas, 3.2 empathy mapping, 2.3 correcciones según retroalimentación |
-|   1.5   | 09/10/2024 | David Ignacio Vivar Cesar | Corrección en los capítulos 2 y 3 |
-|   2.1   | 09/10/2024 | Mike Dylan Guillen Giraldo | Actualización de las secciones del Capítulo 1 y 4 |
-|   2.3   | 14/11/2024 | Guillermo Arturo Howard Robles | Desarrollo de los bounded context de Service Execution & Monitoring y Dashboard & Analytics |
-|   2.4   | 14/11/2024 | David Ignacio Vivar Cesar | Desarrollo de los bounded context de Loyalty & Engagement y System Administration |
-|   3.1   | 14/11/2024 | Mike Dylan Guillen Giraldo | Desarrollo de los bounded context de Service Planning y Profile & Preferences |
-|   3.2   | 14/11/2024 | Céspedes Pillco Jarod Jack | Desarrollo de los bounded context de Payments & Subscriptions y Identity & Access |
-
+| Versión | Fecha      | Autor                          | Descripción de modificación                                                             |
+|:-------:|------------|--------------------------------|-----------------------------------------------------------------------------------------|
+|   1.1   | 18/09/2025 | Mike Dylan Guillen Giraldo     | Creacion de la organizacion en github de RPG2-0-OpenSource-1ASI0729-2520-7327           |
+|   1.2   | 18/09/2025 | Mike Dylan Guillen Giraldo     | Creacion del repositorio de GlassGo-Report                                              |
+|   1.3   | 18/09/2025 | Mike Dylan Guillen Giraldo     | Creacion de ramas para la divicion del los capitulos del report                         |
+|   1.4   | 18/09/2025 | Guillermo Arturo Howard Robles | Desarrollo de la descripcion del startup, solution profile , lean ux problem statements |
+|   1.5   | 18/09/2025 | Mike Dylan Guillen Giraldo     | Desarrollo del lean ux assumptions y hypotehis statements                               |
+|   1.7   | 18/09/2025 | David Ignacio Vivar Cesar      | Desarrollo del lean ux canvas, segmentos objetivos                                      |
+|   2.1   | 18/09/2025 | Guillermo Arturo Howard Robles | Desarrollo de loa seccion de competidores, Ubiquitous Language                          |
+|   2.2   | 09/10/2025 | Mike Dylan Guillen Giraldo     | Desarrollo de las secciones de entrevistas, Big Picture Event Storming                  |
+|   2.3   | 09/10/2025 | David Ignacio Vivar Cesar      | Desarrollo de la seccion needfinding                                                    |
+|   3.1   | 09/10/2025 | Guillermo Arturo Howard Robles | Desarrollo del Product Backlog                                                          |
+|   3.2   | 09/10/2025 | Mike Dylan Guillen Giraldo     | Desarrollo del Impact Mapping                                                           |
+|   3.3   | 12/10/2025 | David Ignacio Vivar Cesar      | Desarrollo de los User Stories                                                          |
+|   4.1   | 26/10/2025 | Guillermo Arturo Howard Robles | Desarrollo del capitulo 4                                                               |
+|   4.2   | 27/10/2025 | Mike Dylan Guillen Giraldo     | Desarrollo del capitulo 4                                                               |
+|   4.3   | 28/10/2025 | David Ignacio Vivar Cesar      | Desarrollo del sprint 1                                                                 |
+|   4.4   | 16/11/2025 | David Ignacio Vivar Cesar      | Corrección en los capítulos 2 y 3                                                       |
+|   4.5   | 17/11/2025 | Mike Dylan Guillen Giraldo     | Correccion en las secciones del Capítulo 1 y 4                                          |
+|   5.1   | 19/11/2025 | Guillermo Arturo Howard Robles | Desarrollo del sprint 2                                                                 |
+|   5.2   | 19/11/2025 | Jarod Jack Céspedes Pillco     | Desarrollo del sprint 3                                                                 |
+|   5.3   | 20/11/2025 | Mike Dylan Guillen Giraldo     | Correccion en los sprint 1 y 2                                                          |
+|   5.4   | 28/11/2025 | Guillermo Arturo Howard Robles | Desarrollo del sprint 4                                                                 |
+|   6.1   | 01/12/2025 | Guillermo Arturo Howard Robles | Correccion del sprint 4                                                                 |
+ 
 ---
 
 <div style="page-break-after: always;"></div>
@@ -112,7 +123,7 @@ Link Github: https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327
 
 # Contenido
 **Tabla de contenidos**
-
+ 
 ---
 
 <div style="page-break-after: always;"></div>
