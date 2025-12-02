@@ -13,3 +13,7 @@ Durante el desarrollo del proyecto _GlassGo_, hemos logrado identificar y compre
 ## **Video About-the-Team**
 
 A continuación, encontrará una captura de pantalla del vídeo, junto con enlaces a la versión publicada en Microsoft Stream y YouTube.
+
+https://www.youtube.com/watch?v=Kd3LH6Srh8U
+
+https://tinyurl.com/2rp473k6

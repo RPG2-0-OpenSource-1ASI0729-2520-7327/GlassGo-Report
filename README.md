@@ -1,10 +1,13 @@
+
+<div align="center" style="border: 2px solid #000; padding: 20px; margin: 20px auto; max-width: 800px;">
+
 <img src="assets/images/readme/logo-upc.png" alt="Logo UPC" style="width: 150px; height: auto;" />
 
 **Universidad Peruana de Ciencias Aplicadas**
 
-**Facultad:** _Ingeniería_
+**Facultad** de _Ingeniería_
 
-**Carrera:** _Ingeniería de Software_
+**Carrera** de _Ingeniería de Software_
 
 **Ciclo:** _202520_
 
@@ -14,7 +17,7 @@
 
 **NRC:** _7327_
 
-**DOCENTE:** Angel Augusto Velasquez Nuñez
+**DOCENTE:** ngel Augusto Velasquez Nuñez
 
 **Informe de Trabajo Final**
 
@@ -28,17 +31,57 @@
 
 ## Relacion de integrantes
 
-| Código | Apellidos | Nombres |
-| :---- | :---- | :---- |
-| U202222275 | Howard Robles | Guillermo Arturo |
-| U202414424 | Vivar Cesar | David Ignacio |
-| U202211881 | Guillen Giraldo | Myke Dylan |
-| U202318588 | Céspedes Pillco | Jarod Jack |
+<!-- TABLA CENTRADA -->
+
+<div style="margin: 0 60px;">
+  <table style="width:100%; border-collapse: collapse;">
+    <tr>
+      <th style="text-align: center;">Code</th>
+      <th style="text-align: center;">LastName</th>
+      <th style="text-align: center;">Names</th>
+    </tr>
+    <tr>
+      <td style="text-align: center;">u202224867</td>
+      <td style="text-align: center;">Carlos Lavado</td>
+      <td style="text-align: center;">Ever Giusephi</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">u20211C201</td>
+      <td style="text-align: center;">Palacín Lazo</td>
+      <td style="text-align: center;">Gerardo Valentín</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">u202222275</td>
+      <td style="text-align: center;">Howard Robles</td>
+      <td style="text-align: center;">Guillermo Arturo</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">u202219199</td>
+      <td style="text-align: center;">Acosta Elera</td>
+      <td style="text-align: center;">Abraam Bernabe</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">u202414424</td>
+      <td style="text-align: center;">Vivar Cesar</td>
+      <td style="text-align: center;">David Ignacio</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">u202211881</td>
+      <td style="text-align: center;">Guillen Giraldo</td>
+      <td style="text-align: center;">Myke Dylan</td>
+    </tr>
+  </table>
+</div>
+
 
 **Mes y Año**  
 _Diciembre 2025_
 
+</div>
+
 ---
+
+<div style="page-break-after: always;"></div>
 
 # Registro de Versiones del Informe
 
@@ -57,13 +100,17 @@ _Diciembre 2025_
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 # Project Report Collaboration Insights
 
 Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de la organización del equipo en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente, en coherencia con el Registro de Versiones del Informe.
 
 Link Github: https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327
 
-<img src="assets/images/readme/logo-upc.png" alt="Contributors" style="width: 150px; height: auto;" />
+<img src="assets/images/readme/1-Commits%20over%20time.png" alt="Contributors" style="width: 500px; height: auto;" />
+
+<img src="assets/images/readme/2-Commits%20over%20time.png" alt="Contributors" style="width: 500px; height: auto;" />
 
 - **Total de commits:**
 - **Autores contribuyentes:**
@@ -76,10 +123,14 @@ Link Github: https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 # Cotenido
 **Tabla de contenidos**
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 # **Student Outcome**
 
@@ -97,5 +148,3 @@ En el siguiente cuadro se describen las acciones realizadas  y enunciados de con
 | **Comunica por escrito <br />con efectividad a <br />diferentes rangos <br />de audiencia.** | **Howard Robles, Guillermo Arturo** <br />TB1: Lideró la redacción de escenarios de usuario y tareas funcionales; documentó el desarrollo inicial del flujo base. <br />**TP:** Redactó las conclusiones del equipo y afinó la coherencia de los supuestos. <br />**TB2:** Redactó y corrigió entregables relacionados a clases del backend. <br /><br />**David Ignacio, Vivar Cesar**<br /> TB1: Lideró la elaboración escrita del Lean UX Canvas y síntesis de hallazgos. <br />**TP:** Redactó reflexiones del equipo sobre colaboración durante el Sprint. <br />**TB2:** Redactó el Sprint Backlog 3 y contribuyó con las evidencias de desarrollo. <br /><br />**Mike Dylan Guillen Geraldo**<br /> TB1:Lideró la documentación del proceso de entrevistas y validación de usuarios. <br />**TP:** Documentó las evidencias del despliegue de software para revisión técnica. <br />**TB2:** Redactó y corrigió entregables relacionados a heurísticas del sistema. <br /><br />**Cespedes Pillco Jarod Jack** <br /> TB2: Documentó evidencias de desarrollo del backend.                                                     | **TB1:** Cada integrante tomó liderazgo en la elaboración de entregables escritos clave, garantizando una comunicación clara, precisa y estructurada. Esto permitió representar con fidelidad el trabajo realizado, desde documentos metodológicos como el Lean UX Canvas, hasta descripciones funcionales, user personas y análisis técnicos. <br /><br />**TP:**<br /> El equipo fortaleció su redacción técnica corrigiendo y mejorando entregas anteriores, lo cual se refleja en la calidad y claridad de los nuevos documentos. Cada evidencia escrita permitió comunicar adecuadamente tanto los avances del producto como el proceso seguido por el equipo. <br /><br />**TB2:**<br /> Se evidenció un avance en la precisión de los documentos técnicos y colaborativos. Las evidencias de desarrollo, actualizaciones del informe y análisis de módulos muestra la capacidad del equipo de comunicar información compleja a diferentes audiencias a través de medios escritos.                                                                |
 
 ---
-
-
