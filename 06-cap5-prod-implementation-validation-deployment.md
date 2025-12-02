@@ -323,7 +323,7 @@ Integración visual con PrimeVue y mejores prácticas para la separación por co
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-xxxx
+Durante este sprint, se realizaron actividades de despliegue y pruebas de los servicios desarrollados, asegurando que las funcionalidades del sistema estén operativas y accesibles para los usuarios finales. A continuación, se detallan los pasos realizados:
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 

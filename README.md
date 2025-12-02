@@ -31,12 +31,33 @@
 
 ## Relacion de integrantes
 
-| Código | Apellidos | Nombres |
-| :---- | :---- | :---- |
-| U202222275 | Howard Robles | Guillermo Arturo |
-| U202414424 | Vivar Cesar | David Ignacio |
-| U202211881 | Guillen Giraldo | Myke Dylan |
-| U202318588 | Céspedes Pillco | Jarod Jack |
+<table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
+<tr>
+<th style="text-align: center; padding: 8px; border: 1px solid #000;">Código</th>
+<th style="text-align: center; padding: 8px; border: 1px solid #000;">Apellidos</th>
+<th style="text-align: center; padding: 8px; border: 1px solid #000;">Nombres</th>
+</tr>
+<tr>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202222275</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">Howard Robles</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">Guillermo Arturo</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202414424</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">Vivar Cesar</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">David Ignacio</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202211881</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">Guillen Giraldo</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">Myke Dylan</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202318588</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">Céspedes Pillco</td>
+<td style="text-align: center; padding: 8px; border: 1px solid #000;">Jarod Jack</td>
+</tr>
+</table>
 
 **Mes y Año**  
 _Diciembre 2025_
