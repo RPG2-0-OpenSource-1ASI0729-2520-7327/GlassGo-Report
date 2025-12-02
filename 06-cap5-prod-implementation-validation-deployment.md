@@ -463,6 +463,13 @@ Trello: [https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
+**Business-Web-Page**
+
+- Se creo el Business Web Page para la demostrancion de la mision, vision y la propuesta de valor del proyecto final GlassGo, ademas del equipo de desarrollo con el video About-the-Team y informacion de nuestro proyecto reflejado en el video About-the-Product.
+- Para la creacion del Business Web Page del proyecto final, se utilizo el lenaguje html, css y javascript junto con i18n para la internacionalizacion del sitio web, se utilizo la plataforma de GitHub Pages, para alojar el sitio web directamente desde el repositorio del proyecto, facilitando la presentación y acceso al informe final.
+
+<img src="assets/images/readme/Business-Web-Page.png" alt="Contributors" style="width: 500px; height: auto;" />
+
 Web Services (Backend):
 
 En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de pedios, suministros y lotes. Se implementaron un manejo detallado para los insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.

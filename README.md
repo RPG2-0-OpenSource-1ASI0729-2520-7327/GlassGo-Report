@@ -5,29 +5,29 @@
 
 **Universidad Peruana de Ciencias Aplicadas**
 
-**Facultad** de _Ingeniería_
+**Facultad de _Ingeniería_**
 
-**Carrera** de _Ingeniería de Software_
+**Carrera de _Ingeniería de Software_**
 
 **Ciclo:** _202520_
 
-**Código del curso:** _1ASI0729_
+**Código del curso: _1ASI0729_**
 
-**Nombre del curso:** _Desarrollo de Aplicaciones Open Source_
+**Nombre del curso: _Desarrollo de Aplicaciones Open Source_**
 
-**NRC:** _7327_
+**NRC: _7327_**
 
-**DOCENTE:** Ángel Augusto Velásquez Núñez
+**DOCENTE: Ángel Augusto Velásquez Núñez**
 
 **Informe de Trabajo Final**
 
 ## Nombre del Startup
 
-**Nombre:** _RPG2.0_ 
+**Nombre: _RPG2.0_** 
 
 ## Nombre del Producto
 
-**Producto:** _GlassGo_
+**Producto: _GlassGo_**
 
 ## Relación de integrantes
 
@@ -60,7 +60,7 @@
 </table>
 
 **Mes y Año**  
-_Diciembre 2024_
+**_Diciembre 2025_**
 
 </div>
 
@@ -93,16 +93,11 @@ Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de 
 
 Link Github: https://github.com/RPG2-0-OpenSource-1ASI0729-2520-7327
 
-**Business-Web-Page**
+- Para la elaboración del informe, se crearon ramas específicas para cada sección del documento, permitiendo a los integrantes trabajar de manera simultánea y organizada, facilitando la integración de los contenidos.
 
-- Se creo el Business Web Page para la demostrancion de la mision, vision y la propuesta de valor del proyecto final GlassGo, ademas del equipo de desarrollo con el video About-the-Team y informacion de nuestro proyecto reflejado en el video About-the-Product.
-- Para la creacion del Business Web Page del proyecto final, se utilizo el lenaguje html, css y javascript junto con i18n para la internacionalizacion del sitio web, se utilizo la plataforma de GitHub Pages, para alojar el sitio web directamente desde el repositorio del proyecto, facilitando la presentación y acceso al informe final.
+<img src="assets/images/readme/Report-Ins.png" alt="Contributors" style="width: 500px; height: auto;" />
 
-<img src="assets/images/readme/Business-Web-Page.png" alt="Contributors" style="width: 500px; height: auto;" />
-
-
-
-- **Total de commits:**
+- **Total de commits:** 46
 - **Autores contribuyentes:**
     - Guillermo Howard (`GuillermoPromac`)
     - Vivar David (`DarkBeider20`)
