@@ -1,35 +1,34 @@
 <div align="center">
-
 <img src="assets/images/readme/logo-upc.png" alt="Logo UPC" style="width: 150px; height: auto;" />
 
-**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
+<p align="center">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</p>
 
-**Facultad de _Ingeniería_**
+<p align="center">Facultad de Ingeniería</p>
 
-**Carrera de _Ingeniería de Software_**
+<p align="center">Carrera de Ingeniería de Software</p>
 
-**Ciclo: _202520_**
+<p align="center">Ciclo: 202520</p>
 
-**Código del curso: _1ASI0729_**
+<p align="center">Código del curso: 1ASI0729</p>
 
-**Nombre del curso: _Desarrollo de Aplicaciones Open Source_**
+<p align="center">Nombre del curso: Desarrollo de Aplicaciones Open Source</p>
 
-**NRC: _7327_**
+<p align="center">NRC: 7327</p>
 
-**DOCENTE: Ángel Augusto Velásquez Nuñez**
+<p align="center">DOCENTE: Ángel Augusto Velásquez Nuñez</p>
 
-**Informe de Trabajo Final**
+<p align="center">Informe de Trabajo Final</p>
 
-**Nombre del Startup**
+<p align="center">Nombre del Startup</p>
+<p align="center">Nombre: RPG2.0</p>
 
-**Nombre: _RPG2.0_**
+<p align="center">Nombre del Producto</p>
+<p align="center">Producto: GlassGo</p>
 
-**Nombre del Producto**
+<p align="center">Relación de integrantes</p>
 
-**Producto: _GlassGo_**
 
-**Relación de integrantes**
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -57,8 +56,9 @@
   </tbody>
 </table>
 
-**Mes y Año**  
-**_Diciembre 2025_**
+<p align="center">MES Y AÑO</p>
+
+<p align="center">Diciembre 2025</p>
 
 </div>
 
