@@ -520,15 +520,170 @@ El objetivo principal de este Sprint es consolidar una experiencia funcional com
 
 Asimismo, se trabajará en la integración del flujo de pagos por suscripción y en la provisión de APIs REST documentadas, permitiendo al equipo frontend consumir endpoints de forma eficiente para construir las vistas requeridas. Este enfoque integral busca mejorar la usabilidad, operatividad y cohesión entre el frontend y backend, facilitando la validación funcional de la plataforma y avanzando hacia su adopción por parte de los usuarios finales.
 
-Trello: [https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3](https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3)
+<img src="assets/images/cap5/Trello-4.png" alt=“Descargar” >
+
+<table>
+<thead>
+         <!-- Fila 1: Sprint # y Sprint n -->
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint n</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>User Story</th>
+            <th></th>
+            <th>Work-item / Task</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (hours)</th>
+            <th>Assigned To</th>
+            <th>Status (To-do / In-Process / To-Review / Done)</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>US-02</td>
+        <td>Creación de comando de verificacion</td>
+        <td>TASK03</td>
+        <td>Implementar comando de verigicación de los campos del pedido</td>
+        <td>Crear la implementación del comando de verificación de los campos del pedido que se pueden actualizar </td>
+        <td>2h</td>
+        <td>David Vivar</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+    <td>US-03</td>
+    <td>Devolver respuesta JSON</td>
+    <td>TASK04</td>
+    <td>Devolver respuesta JSON indicando éxito o fallo</td>
+    <td>Implementar la lógica para enviar respuesta JSON con estado de la operación</td>
+    <td>2h</td>
+    <td>David Vivar</td>
+    <td>Done</td>
+    </tr>
+    <tr>
+    <td>US-61</td>
+    <td>Implementación ProfileRepository</td>
+    <td>TASK07</td>
+    <td>Implementar el ProfileRepository</td>
+    <td>Crear la implementación del repositorio para gestionar perfiles de usuario</td>
+    <td>3h</td>
+    <td>David Vivar</td>
+    <td>Done</td>
+    </tr>
+    <tr>
+    <td>US-61</td>
+    <td>Registro de usuarios</td>
+    <td>TASK09</td>
+    <td>Implementar registro de usuarios (API)</td>
+    <td>Crear el endpoint y lógica para registrar usuarios desde la API</td>
+    <td>4h</td>
+    <td>Myke Guillen</td>
+    <td>Done</td>
+    </tr>
+    <tr>
+    <td>US-03</td>
+    <td>Eliminar pedido cancelado</td>
+    <td>TASK02</td>
+    <td>Desarrollar handler que elimine un pedido cancelado</td>
+    <td>Crear el handler encargado de eliminar pedidos con estado cancelado</td>
+    <td>2h</td>
+    <td>David Vivar</td>
+    <td>Done</td>
+    </tr>
+    <tr>
+    <td>US-63</td>
+    <td>Aggregate Order</td>
+    <td>TASK23</td>
+    <td>Implementar aggregate y handlers</td>
+    <td>Crear aggregate para órdenes y desarrollar handlers de updates y queries</td>
+    <td>5h</td>
+    <td>Guillermo Howard</td>
+    <td>Done</td>
+    </tr>
+    <tr>
+    <td>US-61</td>
+    <td>Retornar ID de usuario</td>
+    <td>TASK06</td>
+    <td>Retornar respuesta JSON con ID del usuario</td>
+    <td>Implementar lógica para devolver el ID del usuario en formato JSON</td>
+    <td>2h</td>
+    <td>Jarod Cespedes</td>
+    <td>Done</td>
+    </tr>
+    <tr>
+    <td>US-61</td>
+    <td>Endpoint /users</td>
+    <td>TASK08</td>
+    <td>Implementar endpoint /users con validación</td>
+    <td>Crear el endpoint /users e integrar validaciones de datos de entrada</td>
+    <td>4h</td>
+    <td>Jarod Cespedes</td>
+    <td>Done</td>
+    </tr>
+    </tbody>
+</table>
+
+Trello: https://tinyurl.com/4mx2dvz8
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
-**Businees-Web-Page:**
+**Business Web Page:**
+
+- Se implementó la página web del negocio, donde se muestra la mision, vision y propuesta de valor del proyecto final GlassGo, ademas del equipo de desarrollo con el video About-the-Team y información de nuestro proyecto reflejado en el video About-the-Product.
+- Se implementó la clase dueno-negocios para una presentación del prototipo de la aplicación web interna GlassGo, enfocada en dueños de negocios que buscan optimizar la gestión de pedidos y suministros de licores.
+
+| Repository                 | Branch | Author           | Commit Id | Commit Message                 | Commit Message Body                                                                           | Commited on (Date) |
+|----------------------------|--------|------------------|-----------|--------------------------------|-----------------------------------------------------------------------------------------------|--------------------|
+| GlassGo-Business-Web-Page  | main   | Guillermo Howard | d543c90   | fix: correction. | Se corrigio un error menor identificado en el código para asegurar el funcionamiento esperado. | 03-12-2025         |
+| GlassGo-Business-Web-Page  | main   | Guillermo Howard | 1ab5ab6   | feat: replace video placeholder with actual youtube embed in the about product section for enhanced user experience. | Se reemplaza el placeholder del video por un embed real de YouTube en la sección "About Product" para mejorar la experiencia del usuario.                              | 03-12-2025         |
+| GlassGo-Business-Web-Page  | main   | Guillermo Howard | 8c43879   | feat: remove logo text from sidebar across multiple html files for a cleaner design. | Se elimina el texto del logo en la barra lateral a través de múltiples archivos HTML para lograr un diseño más limpio y minimalista.                              | 03-12-2025         |
+| GlassGo-Business-Web-Page  | main   | Guillermo Howard | 4af65b9   | feat: refactor notification handling by removing duplicate shownotification function across multiple files. | Se refactoriza el manejo de notificaciones eliminando las funciones duplicadas showNotification presentes en múltiples archivos.                              | 03-12-2025         |
+| GlassGo-Business-Web-Page  | main   | Guillermo Howard | 4e55343   | feat: add descriptive comments and metadata to html files for better documentation. | Se agregan comentarios descriptivos y metadatos a los archivos HTML con el fin de mejorar la documentación y facilitar el mantenimiento.                              | 03-12-2025         |
+| GlassGo-Business-Web-Page  | main   | Guillermo Howard | 06dfe91   | feat: replace svg logos with image logos across multiple html files. | Se reemplazan los logos en formato SVG por imágenes en formato estándar (PNG/JPG) a lo largo de múltiples archivos HTML.                              | 03-12-2025         |
+| GlassGo-Business-Web-Page  | main   | Guillermo Howard | 1b40b4e   | feat: implement i18n support for navigation and dashboard elements across multiple pages. | Se implementa soporte i18n para los elementos de navegación y del dashboard en múltiples páginas, permitiendo la traducción dinámica de la interfaz.| 03-12-2025         |
+
+**Frontend (Web Application):**
+
+Se lograron avances significativos en el desarrollo de la interfaz de la plataforma, centrándose en la creación de pedidos, los perfiles de usuario y la gestión de inventario. También se perfeccionaron los componentes visuales para mejorar la experiencia del usuario. Estos cambios buscan fortalecer la plataforma y facilitar su uso en diversos contextos operativos.
+
+| Repository       | Branch  | Author        | Commit Id | Commit Message                                                           | Commit Message Body                                                                                      | Commited on (Date) |
+|------------------|---------|---------------|-----------|--------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------- |--------------------|
+| GlassGo-Frontend | develop | xxx    | xxx       | feat: xxxx     | xxx.                | 01-12-2025         |
+
+
+**Backend (Web Services):**
+
+En el backend de la plataforma, se realizaron importantes avances centrados en la gestión de pedidos, suministros y lotes. Se implementó la gestión detallada de suministros, además de validar y reforzar la integridad de los datos mediante objetos de valor específicos. También se añadieron configuraciones para entornos de desarrollo y producción, y se mejoraron las definiciones de columnas de la base de datos para optimizar la gestión de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
+
+| Repository      | Branch  | Author | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-----------------|---------|--------|-----------|----------------|---------------------|--------------------|
+| GlassGo-Backend | develop | xxx    | xxx       | feat: xxxx     | xxx.                | 01-12-2025         |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-A continuación, se muestra un video con los avances realizados durante el Sprint 3, en el cual se trabajó en la landing page, así como en el desarrollo del frontend y backend.
+A continuación, se muestra un video con los avances realizados durante el Sprint 4, en el cual se trabajó en la landing page, así como en el desarrollo del frontend y backend.
+
+**Video del sprint 4:**
+
+<img src="assets/images/cap5/Execution%20evidence.png" alt=“Descargar” >
 
 https://youtu.be/fgSdkh02vZo
 
@@ -552,29 +707,59 @@ Web Services (Backend):
 
 En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de pedios, suministros y lotes. Se implementaron un manejo detallado para los insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
 
+- Se introduce el link del repositorio y se escoge la branch en render.
+
+<img src="assets/images/cap5/Deploy-Backend-1.png" alt=“Descargar” >
+
+- Se configura el entorno de producción con las variables necesarias para la conexión a la base de datos y otros parámetros críticos en filess.io
+
+<img src="assets/images/cap5/Deploy-Backend-2.png" alt=“Descargar” >
+
+- Se introduce los keys y values de las variables de entorno necesarias para la correcta ejecución del servicio.
+
+<img src="assets/images/cap5/Deploy-Backend-3.png" alt=“Descargar” >
+
+- Render detecta automáticamente el proyecto como una aplicación de Spring Boot y configura el build y run commands por defecto.
+
+<img src="assets/images/cap5/Deploy-Backend-3.png" alt=“Descargar” >
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 Seguimos usando ramas específicas para cada sección o funcionalidad (feature/\[nombre-de-seccion\]), permitiendo un trabajo paralelo organizado.
 
-Cada miembro del equipo asumió la responsabilidad de desarrollar una o más boundeds del Backend. Se realizaron commits frecuentes, registrando avances de manera continua y detallada. Las funcionalidades desarrolladas se integraron mediante Pull Requests hacia la rama develop. Se mantuvo una comunicación constante mediante la plataforma Discord para coordinar avances y resolver dudas en tiempo real. Se aplicaron buenas prácticas de programación, control de versiones y colaboración en equipo.
+Cada miembro del equipo asumió la responsabilidad de desarrollar una o más bounded del Backend. Se realizaron commits frecuentes, registrando avances de manera continua y detallada. Las funcionalidades desarrolladas se integraron mediante Pull Requests hacia la rama develop. Se mantuvo una comunicación constante mediante la plataforma Discord para coordinar avances y resolver dudas en tiempo real. Se aplicaron buenas prácticas de programación, control de versiones y colaboración en equipo.
 
 **Business-Web-Page**
 
-- Se creo el Business Web Page para la demostrancion de la mision, vision y la propuesta de valor del proyecto final GlassGo, ademas del equipo de desarrollo con el video About-the-Team y informacion de nuestro proyecto reflejado en el video About-the-Product.
-- Para la creacion del Business Web Page del proyecto final, se utilizo el lenaguje html, css y javascript junto con i18n para la internacionalizacion del sitio web, se utilizo la plataforma de GitHub Pages, para alojar el sitio web directamente desde el repositorio del proyecto, facilitando la presentación y acceso al informe final.
+- Se creo el Business Web Page para la demostración de la mision, vision y la propuesta de valor del proyecto final GlassGo, ademas del equipo de desarrollo con el video About-the-Team y informacion de nuestro proyecto reflejado en el video About-the-Product.
+- Para la creacion del Business Web Page del proyecto final, se utilizó el lenguaje html, css y javascript junto con i18n para la internacionalizacion del sitio web, se utilizo la plataforma de GitHub Pages, para alojar el sitio web directamente desde el repositorio del proyecto, facilitando la presentación y acceso al informe final.
 
 <img src="assets/images/readme/Business-Web-Page.png" alt="Contributors" style="width: 500px; height: auto;" />
 
-** Frontend (Web Application)**
+- Total de commits realizados: **26**
+- Total de autores colaboradores: **2**
+- El gráfico muestra una distribución consistente de la actividad a lo largo del sprint.
 
-- Se desarrollo el Frontend de la aplicacion web interna GlassGo, abarcando funcionalidades clave como la gestion de productos, pedidos, inventario y compras. Estas implementaciones buscan optimizar los procesos internos y mejorar la trazabilidad del inventario, brindando mayor eficiencia a los repartidores y dueños de negocios.
-- Para el desarrollo del Frontend de la aplicacion web interna GlassGo, se utilizo el framework Angular, que permite construir aplicaciones web robustas y escalables. Se implementaron componentes modulares siguiendo principios de Domain-Driven Design (DDD) para asegurar una arquitectura limpia y mantenible. Ademas, se utilizo PrimeNG para los componentes de interfaz de usuario, garantizando una experiencia visual atractiva y consistente.
+**Frontend (Web Application)**
+
+- Se desarrolló el Frontend de la aplicacion web interna GlassGo, abarcando funcionalidades clave como la gestion de productos, pedidos, inventario y compras. Estas implementaciones buscan optimizar los procesos internos y mejorar la trazabilidad del inventario, brindando mayor eficiencia a los repartidores y dueños de negocios.
+- Para el desarrollo del Frontend de la aplicacion web interna GlassGo, se utilizó el framework Angular, que permite construir aplicaciones web robustas y escalables. Se implementaron componentes modulares siguiendo principios de Domain-Driven Design (DDD) para asegurar una arquitectura limpia y mantenible. Ademas, se utilizo PrimeNG para los componentes de interfaz de usuario, garantizando una experiencia visual atractiva y consistente.
 
 <img src="assets/images/cap5/Fronentd-Comits.png" alt="Contributors" style="width: 500px; height: auto;" />
 
-** Backend (Web Services)**
+- Total de commits realizados: **36**
+- Total de autores colaboradores: **4**
+- El gráfico muestra una distribución consistente de la actividad a lo largo del sprint.
+
+**Backend (Web Services)**
 
 En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de pedios, suministros y lotes. Se implementaron un manejo detallado para los insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
+
+<img src="assets/images/cap5/Backend-Comits.png" alt="Contributors" style="width: 500px; height: auto;" />
+
+- Total de commits realizados: **70**
+- Total de autores colaboradores: **4**
+- El gráfico muestra una distribución consistente de la actividad a lo largo del sprint.
 
 
 ## 5.3. Validation Interviews.
