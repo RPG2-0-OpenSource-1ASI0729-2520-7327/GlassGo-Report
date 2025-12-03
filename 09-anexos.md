@@ -34,7 +34,7 @@
 
 ## Anexo D. About The Team
 
-- Link del video: https://www.youtube.com/watch?v=Kd3LH6Srh8U
+- Link del video: https://tinyurl.com/2rp473k6
 
 <img src="assets/images/annexes/AnexoC.png" alt=“Descargar” >
 
@@ -42,24 +42,22 @@
 
 ## Anexo E. About The Product
 
-- Link del video: https://www.youtube.com/watch?v=fgSdkh02vZo
+- Link del video: https://tinyurl.com/2nj6czbv
 
 <img src="assets/images/annexes/AnexoD.png" alt=“Descargar” >
 
 <div class="page"></div>
 
-## Anexo F. TP1
+## Videos de Exposiciones
 
-- Link del video: https://youtu.be/fCHTmI3T-Vg
+**TP1**
+
+- Link del video: https://tinyurl.com/ytvc7cj7
 
 <img src="assets/images/annexes/AnexoF.png" alt=“Descargar” >
 
-<div class="page"></div>
-
-## Anexo G. TF1
+**TF1**
 
 - Link del video: 
 
 <img src="assets/images/annexes/AnexoG.png" alt=“Descargar” >
-
-<div class="page"></div>

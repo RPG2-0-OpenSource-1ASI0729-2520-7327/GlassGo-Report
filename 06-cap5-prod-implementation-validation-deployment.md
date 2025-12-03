@@ -4,143 +4,204 @@
 
 ## 5.1. Software Configuration Management.
 
-La gestión de la configuración del software es crucial para nuestro trabajo, ya que nos permite mantener un control preciso sobre los elementos de nuestro proyecto, como el código fuente, los documentos de diseño y los activos digitales. Esto garantiza que todos los miembros del equipo están trabajando con la misma versión de los archivos y facilita la colaboración entre desarrolladores, diseñadores y otros profesionales involucrados en el proyecto.
-
 ### 5.1.1. Software Development Environment Configuration.
 
 A continuación, se listan las herramientas y estándares adoptados por el equipo para el desarrollo colaborativo del sistema:
 
-| Actividad | Herramient / Guía | Propósito | Tipo de acceso / Ruta |
-| :---- | :---- | :---- | :---- |
-| Project Management | Trello | Seguimiento de backlog, tareas y sprints.	 | [https://trello.com/](https://trello.com/)  |
-| Requirements Management | Gherkin Conventions | Escritura legible de requisitos con formato Given/When/Then. | [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/) |
-| Product UX/UI Design | Figma | Prototipos y diseño responsive. | [https://figma.com/](https://figma.com/) |
-| Frontend Dev | HTML, CSS, JavaScript, TypeScript, Angular | Construcción de la interfaz web. | [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)  |
-| Backend Dev | Java \+ Spring Boot	 | Implementación de servicios y lógica del backend. | [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)  |
-| IDE | IntelliJ IDEA \+ WebStorm | Desarrollo, testing y depuración. | [https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)  / [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm)   |
-| Code Standards | Google Java Style Guide, Google TypeScript Style Guide | Mantener un código consistente y legible. | [https://google.github.io/styleguide](https://google.github.io/styleguide)  |
-| Version Control | Git \+ GitHub | Control de versiones y trabajo colaborativo. | [https://github.com/](https://github.com/) |
-| Software Deployment | Github pages | Despliegue continuo de la aplicación para ambientes de prueba y validación. | [https://render.com/](https://render.com/) |
+| Actividad               | Herramienta / Guía                                    | Propósito                                                     | Tipo de acceso / Ruta                                                                                                                 |
+| ----------------------- | ------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Management      | Trello                                                 | Seguimiento de backlog, tareas y sprints.                      | [https://trello.com/](https://trello.com/)                                                                                               |
+| Requirements Management | Gherkin Conventions                                    | Escritura legible de requisitos con formato Given/When/Then.   | [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)                                                                   |
+| Product UX/UI Design    | Figma                                                  | Prototipos y diseño responsive.                               | SaaS –[https://figma.com](https://figma.com)                                                                                            |
+| Frontend Dev            | HTML, CSS, JavaScript, TypeScript, Angular             | Construcción del frontend del sistema.                        | [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)                                                               |
+| Backend Dev             | Java + Spring Boot                                     | Lógica de negocio y servicios REST.                           | [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)                                                         |
+| IDE                     | IntelliJ IDEA + WebStorm                               | Desarrollo, depuración y pruebas.                             | [https://www.jetbrains.com/idea](https://www.jetbrains.com/idea) / [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm) |
+| Code Standards          | Google Java Style Guide, Google TypeScript Style Guide | Mantener un código consistente y legible.                     | [https://google.github.io/styleguide](https://google.github.io/styleguide)                                                               |
+| Version Control         | Git + GitHub                                           | Gestión colaborativa del código fuente.                      | SaaS –[https://github.com](https://github.com)                                                                                          |
+| Software Deployment     | Github pages                                           | Despliegue continuo del sistema en ambientes de testing.       | SaaS –[https://railway.app](https://railway.app) / [https://render.com](https://render.com)                                                |
+| Software Documentation  | Swagger                                                | Documentación de APIs, funcionalidades y criterios técnicos. | SaaS –[https://swagger.io/](https://swagger.io/)                                                                                        |
 
 ### 5.1.2. Source Code Management.
 
-* **GitFlow Workflow**
+En esta sección el equipo establece los medios y esquema de organización que aplicará para el seguimiento de modificaciones. Para ello se utilizará **GitHub** como plataforma y sistema de control de versiones.
 
-  Se implementará el modelo de ramificación propuesto por Vincent Driessen en su artículo “A successful Git branching model”, conocido como GitFlow. Este modelo organiza el trabajo en las siguientes ramas:
+A continuación se indican los URLs de los repositorios de GitHub para cada producto:
 
-    * **main:** Rama principal, contiene siempre el código en producción.
-    * **develop:** Rama de desarrollo principal, donde se integran las funcionalidades antes de pasar a producción.
-    * **feature/\*:** Ramas creadas a partir de developer para desarrollar nuevas funcionalidades.
-        * Convención de nombres: feature/\<nombre-corto-descriptivo\>
-            * **Ejemplo:** feature/login-auth
-    * **release/\*: Ramas** creadas desde develop cuando se prepara una nueva versión para producción.
-        * Convención de nombres: release/\<versión\>
-            * **Ejemplo:** release/1.2.0
+- **Business Web Page**: https://tinyurl.com/yrx57tyc
+- **Frontend Web Application**: https://tinyurl.com/yu7w5bth
+- **Backend Web Services**: https://tinyurl.com/3a2j78cm
 
+#### GitFlow Workflow
 
+Se implementará el modelo de ramificación propuesto por Vincent Driessen en su artículo *“A successful Git branching model”*, conocido como **GitFlow**. Este modelo organiza el trabajo en las siguientes ramas:
 
-* **Convenciones de Commits**  
-  Se utilizará el estándar de Conventional Commits para los mensajes de commits. Esto facilitará la automatización en los procesos de integración continua y generación de changelogs.
-    * **feat:** add login functionality
-    * **fix:** correct null pointer exception on user service
-    * **chore:** update dependencies
+- `main`: Rama principal, contiene siempre el código en producción.
+- `develop`: Rama de desarrollo principal, donde se integran las funcionalidades antes de pasar a producción.
+- `feature/*`: Ramas creadas a partir de `develop` para desarrollar nuevas funcionalidades.**Convención de nombres:** `feature/<nombre-corto-descriptivo>`_Ejemplo: `feature/login-auth`_
+  **Convención de nombres:** `feature/<descripción-corta>`
+  _Ejemplo: `feature/version-testing`_
+
+#### Convenciones de Commits
+
+Se utilizará el estándar de **Conventional Commits** para los mensajes de commits. Esto facilitará la automatización en los procesos de integración continua y generación de changelogs.
+
+**Ejemplos:**
+
+- `feat: add login functionality`
+- `fix: correct null pointer exception on user service`
+- `chore: update dependencies`
+- `docs: add and update documents`
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-**Frontend (Landing Page \- HTML, CSS, JavaScript)**
+#### Frontend (Landing Page - HTML, CSS, JavaScript)
 
-Convenciones generales:
+##### Convenciones generales:
 
-* Idioma: Todo el código, incluyendo nombres de variables, funciones y clases, está escrito en inglés.
-* Indentación: 2 espacios.
-* Formato de archivos: .html, .css, .js
-* Estilo de código adoptado:
-    * [https://www.w3schools.com/html/html5\_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
-    * [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+- **Idioma**: Nombres de variables, funciones y clases, está escrito en **inglés**.
+- **Formato de archivos**: `.html`, `.css`, `.js`
+- **Estilo de código adoptado**:
+    - [W3Schools HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
+    - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
+##### Nomenclatura:
 
-Nomenclatura:
+- **Clases CSS**: `kebab-case` (ej. `main-container`)
+- **IDs HTML**: `camelCase` (ej. `mainContent`)
+- **Variables JS**: `camelCase` (ej. `userName`)
 
-* Clases CSS: kebab-case (ej. main-container)
-* IDs HTML: camelCase (ej. mainContent)
-* Variables JS: camelCase (ej. userName)
-* Funciones JS: camelCase (ej. handleClick())
+#### Frontend Web App (Angular + TypeScript)
 
-**Frontend Web App (Angular \+ TypeScript)**
+##### Convenciones generales:
 
-Convenciones generales:
+- **Idioma**: Código completamente en **inglés**.
+- **Estructura de carpetas**: Segregación por módulos y componentes.
+- **Formato de archivos**: `.ts`, `.html`, `.css`
 
-* Idioma: Código completamente en inglés.
-* Estructura de carpetas: Segregación por módulos y componentes.
-* Indentación: 2 espacios.
-* Formato de archivos: .ts, .html, .css
+##### Estilo de código adoptado:
 
+- [Angular Style Guide (Oficial)](https://angular.io/guide/styleguide)
+- [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 
-Estilo de código adoptado:
+##### Nomenclatura:
 
-* [https://v17.angular.io/guide/styleguide](https://v17.angular.io/guide/styleguide)
-* [https://google.github.io/styleguide/tsguide.html](https://google.github.io/styleguide/tsguide.html)
+- **Componentes**: `PascalCase` (ej. `UserProfileComponent`)
+- **Servicios**: `camelCase` + sufijo `Service` (ej. `authService`)
+- **Interfaces**: `PascalCase`, prefijo `I` opcional (ej. `User`, `IUser`)
+- **Archivos**: `kebab-case` (ej. `user-profile.component.ts`)
+- **Variables y funciones**: `camelCase`
 
+#### Backend (Java + Spring Boot)
 
-Nomenclatura:
+##### Convenciones generales:
 
-* Componentes: PascalCase (ej. UserProfileComponent)
-* Servicios: camelCase \+ sufijo Service (ej. authService)
-* Interfaces: PascalCase, prefijo I opcional (ej. User, IUser)
-* Archivos: kebab-case (ej. user-profile.component.ts)
-* Variables y funciones: camelCase
+- **Idioma**: Código completamente en **inglés**.
+- **Formato de archivos**: `.java`
+
+##### Estilo de código adoptado:
+
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- [Spring Boot Features &amp; Best Practices](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)
+
+##### Nomenclatura:
+
+- **Clases**: `PascalCase` (ej. `UserService`)
+- **Variables**: `camelCase` (ej. `userRepository`)
+- **Constantes**: `UPPER_SNAKE_CASE` (ej. `MAX_USERS`)
+- **Endpoints**: `kebab-case` para URLs (ej. `/api/user-profile`)
+- **Paquetes**: Todo en minúsculas y separados por punto (ej. `com.project.backend.controller`)
+
 
 ### 5.1.4. Software Deployment Configuration.
 
-Esta sección detalla los pasos necesarios para desplegar de forma satisfactoria los productos digitales que componen la solución: el landing page, la aplicación web (frontend) y los Web Services (backend), partiendo desde sus respectivos repositorios de código fuente.
+Esta sección detalla los pasos necesarios para desplegar de forma satisfactoria los productos digitales que componen la solución: el Business-Web-Page, la aplicación web (frontend) y los Web Services (backend), partiendo desde sus respectivos repositorios de código fuente.
 
-**1\. Landing Page \- HTML, CSS y Javascript**
+**1. Business-Web-Page - HTML, CSS y Javascript**
 
-**Tecnología Base:**
+**Tecnología Base**
 
 * Lenguajes: HTML5, CSS3, JavaScript
 * Hosting: GitHub Pages
 
+**Configuración y Despliegue**
 
-**Configuración y Despliegue:**
+* Repositorio de Código Fuente:
+  La Business-Web-Page se desarrolla utilizando HTML, CSS y JavaScript puro. Todos los archivos del proyecto deben subirse a un repositorio público en GitHub. Es obligatorio que el archivo `index.html` esté ubicado en la raíz del repositorio (`/`) para que GitHub Pages lo detecte correctamente como punto de entrada del sitio.
 
-* Repositorio de Código Fuente: La Landing Page se desarrolla utilizando HTML, CSS y JavaScript puro. Todos los archivos del proyecto deben subirse a un repositorio público en GitHub. Es obligatorio que el archivo index.html esté ubicado en la raíz del repositorio (/) para que GitHub Pages lo detecte correctamente como punto de entrada del sitio.
-
-
-**Configuración del despliegue en GitHub Pages:**
+**Configuración del despliegue en GitHub Pages** :
 
 * Acceder al repositorio en GitHub.
-* Ir a la sección Settings del repositorio.
-* En el menú lateral, seleccionar Pages .
-* En el campo Source , elegir:
-* Rama: main
-* Carpeta: / (root)
+* Ir a la sección **Settings** del repositorio.
+* En el menú lateral, seleccionar  **Pages** .
+* En el campo  **Source** , elegir:
+    * Rama: `main`
+    * Carpeta: `/ (root)`
 * Guardar los cambios.
 
+**Publicación** :
 
-**Publicación:**  
-Una vez guardada la configuración, GitHub generará automáticamente una URL pública donde la Landing Page estará disponible. Esta URL sigue el formato: https://\<usuario\>.github.io/\<repositorio\>/
+Una vez guardada la configuración, GitHub generará automáticamente una URL pública donde la Business-Web-Page estará disponible. Esta URL sigue el formato: `https://<usuario>.github.io/<repositorio>/`
 
-**Actualizaciones:**  
-Cualquier nuevo commit hecho a la rama main será detectado automáticamente por GitHub Pages y aplicado en la versión publicada sin necesidad de acciones adicionales.
+**Actualizaciones** :
 
-**2\. Frontend Web Application – Angular Tecnología Base**
+Cualquier nuevo commit hecho a la rama `main` será detectado automáticamente por GitHub Pages y aplicado en la versión publicada sin necesidad de acciones adicionales.
+
+**2. Frontend Web Application – Angular**
+**Tecnología Base**
 
 * Framework: Angular
 * Build Tool: Angular CLI (ng build)
-* Hosting: GitHub Pages
-* Configuración y Despliegue Repositorio vinculado: El proyecto frontend está alojado en GitHub y conectado directamente a GitHub Pages. Cada push en la rama principal dispara un nuevo despliegue automático.
-* Build: GitHub Pages ejecuta automáticamente el comando ng build utilizando Angular CLI. El resultado (/dist) se utiliza como carpeta de salida para servir la aplicación web.
-* Variables de entorno: Las URLs de los servicios REST del backend se configuran mediante variables de entorno en GitHub Pages y no están hardcodeadas.
+* Hosting: Firebase
+* Configuración y Despliegue
 
+- Se utiliza la plataforma Firebase para el despliegue del frontend de la aplicación web desarrollada en Angular.
+
+<img src="assets/images/cap5/Deploy-Frontend-1.png" alt=“Descargar” >
+
+- Se implementan los comandos de instalacion del firebase.
+
+<img src="assets/images/cap5/Deploy-Frontend-3.png" alt=“Descargar” >
+
+- Se configura el dominio en el que quiera alojar la aplicación web.
+
+<img src="assets/images/cap5/Deploy-Frontend-2.png" alt=“Descargar” >
 
 **Entornos diferenciados:**
 
 * Desarrollo: Angular se ejecuta localmente (ng serve) apuntando a un entorno de backend local o staging.
-* Producción: El entorno de producción utiliza las variables configuradas en GitHub Pages, que apuntan al backend desplegado en Render.
+* Producción: El entorno de producción utiliza las variables configuradas en Firebase, que apuntan al backend desplegado en Render.
 
+**Integración con backend:**
+El frontend se comunica con el backend a través de HTTP consumiendo la API REST pública expuesta desde Render. Se realiza control de errores y carga de recursos asincrónicos desde los endpoints definidos.
 
-**Integración con backend:** El frontend se comunica con el backend a través de HTTP consumiendo la API REST pública expuesta desde Render. Se realiza control de errores y carga de recursos asincrónicos desde los endpoints definidos.
+**3. Backend Web Services – Java Spring Boot**
+
+**Tecnología Base**
+
+* Framework: Spring Boot
+* Lenguaje: Java 21
+* Build Tool: Maven
+* Contenedorización: Docker
+* Base de datos: MySQL
+* Hosting: Render
+
+**Configuración y Despliegue**
+
+- Se introduce el link del repositorio y se escoge la branch en render.
+
+<img src="assets/images/cap5/Deploy-Backend-1.png" alt=“Descargar” >
+
+- Se configura el entorno de producción con las variables necesarias para la conexión a la base de datos y otros parámetros críticos en filess.io
+
+<img src="assets/images/cap5/Deploy-Backend-2.png" alt=“Descargar” >
+
+- Se introduce los keys y values de las variables de entorno necesarias para la correcta ejecución del servicio.
+
+<img src="assets/images/cap5/Deploy-Backend-3.png" alt=“Descargar” >
+
+- Render detecta automáticamente el proyecto como una aplicación de Spring Boot y configura el build y run commands por defecto.
+
+<img src="assets/images/cap5/Deploy-Backend-3.png" alt=“Descargar” >
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
