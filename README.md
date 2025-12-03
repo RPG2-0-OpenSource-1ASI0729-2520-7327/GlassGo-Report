@@ -1,8 +1,7 @@
-<div align="center" style="border: 2px solid #000; padding: 20px; margin: 20px auto; max-width: 800px;">
-
+<div align="center">
 <img src="assets/images/readme/logo-upc.png" alt="Logo UPC" style="width: 150px; height: auto;" />
 
-**Universidad Peruana de Ciencias Aplicadas**
+**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
 **Facultad de _Ingeniería_**
 
@@ -16,7 +15,7 @@
 
 **NRC: _7327_**
 
-**DOCENTE: Ángel Augusto Velásquez Núñez**
+**DOCENTE: Ángel Augusto Velásquez Nuñez**
 
 **Informe de Trabajo Final**
 
@@ -30,39 +29,38 @@
 
 ## Relación de integrantes
 
-<table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
-<tr>
-<th style="text-align: center; padding: 8px; border: 1px solid #000;">Código</th>
-<th style="text-align: center; padding: 8px; border: 1px solid #000;">Apellidos</th>
-<th style="text-align: center; padding: 8px; border: 1px solid #000;">Nombres</th>
-</tr>
-<tr>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202222275</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">Howard Robles</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">Guillermo Arturo</td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202414424</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">Vivar Cesar</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">David Ignacio</td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202211881</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">Guillen Giraldo</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">Myke Dylan</td>
-</tr>
-<tr>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">U202318588</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">Céspedes Pillco</td>
-<td style="text-align: center; padding: 8px; border: 1px solid #000;">Jarod Jack</td>
-</tr>
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Apellidos y Nombres</th>
+      <th style="background-color: #333; color: #fff;">Código de Alumno</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Howard Robles, Guillermo Arturo</td>
+      <td>U202222275</td>
+    </tr>
+    <tr>
+      <td>Cespedes Pillco, Jarod Jack</td>
+      <td>U202318588</td>
+    </tr>
+    <tr>
+      <td>Vivar Cesar, David Ignacio</td>
+      <td>U202414424</td>
+    </tr>
+    <tr>
+      <td>Guillen Giraldo Myke Dylan</td>
+      <td>U202211881</td>
+    </tr>
+  </tbody>
 </table>
 
 **Mes y Año**  
 **_Diciembre 2025_**
 
 </div>
- 
+
 ---
 
 <div style="page-break-after: always;"></div>

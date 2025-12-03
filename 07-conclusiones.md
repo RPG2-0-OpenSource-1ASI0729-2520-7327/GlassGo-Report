@@ -1,6 +1,6 @@
 <div style="page-break-after: always;"></div>
 
-# Conclusiones y Recomendaciones
+# **Conclusiones y Recomendaciones**
 
 ## Conclusiones
 
@@ -10,7 +10,7 @@ Durante el desarrollo del proyecto _GlassGo_, hemos logrado identificar y compre
 
 - Se recomienda realizar pruebas de usabilidad con usuarios finales para obtener retroalimentación directa y mejorar la experiencia del usuario.
 
-## **Video About-the-Team**
+## Video About-the-Team
 
 A continuación, encontrará una captura de pantalla del vídeo, junto con enlaces a la versión publicada en Microsoft Stream y YouTube.
 

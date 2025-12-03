@@ -1,6 +1,6 @@
 <div style="page-break-after: always;"></div>
 
-# Capítulo I: Introducción
+# **Capítulo I: Introducción**
 
 ## 1.1. Perfil de la Startup
 
@@ -22,11 +22,12 @@ Con GlassGo, buscamos reducir las pérdidas económicas por roturas, optimizar l
 
 ### 1.1.2. Perfiles de los Miembros del Equipo
 
-| ![Jarod](assets/images/cap1/Jarod.png) | **Jarod Jack Cespedes Pillco - u202318588**  Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona atenta, creativa y colaborativa, siempre dispuesta a apoyar a mi equipo en todo lo que sea necesario. Además, cuento con conocimientos en diversos lenguajes de programación, como C++, C#, Python y Java. |
-| :---: | :---- |
-| ![Guillermo](assets/images/cap1/Guillermo.png) | **Guillermo Arturo Howard Robles - u202222275**  Soy un estudiante de Ingeniería de Software enfocado en el aprendizaje constante. Me apasiona investigar y analizar problemas para proponer soluciones innovadoras. Busco desarrollar software integral, aplicando mejores prácticas y tecnologías modernas para garantizar eficiencia, escalabilidad, calidad y mejora continua en cada proyecto. |
-| ![David](assets/images/cap1/David.png) | **David Ignacio Vivar Cesar - u202414424**  Estudiante de Ingeniería de Software interesado en desarrollar soluciones eficientes con tecnología de vanguardia. Siempre buscando mejorar y abierto a cualquier crítica constructiva. |
-| ![Dylan](assets/images/cap1/Dylan.png) | **Mike Dylan Guillén Giraldo - u202211881**  Soy un estudiante de Ingeniería de Software interesado en desarrollar aplicaciones y sistemas escalables. Disfruto investigar y aprender nuevas tecnologías para crear soluciones innovadoras e impactantes. Estoy motivado para aplicar buenas prácticas de programación, principios de arquitectura de software y metodologías ágiles para construir proyectos de calidad, manteniendo siempre una visión de mejora continua y crecimiento profesional. |
+| Foto | Apellido y Nombre | 
+| --- | --- | 
+![jarod](assets/images/cap1/Jarod.png) | **Jarod Jack Cespedes Pillco - u202318588**  Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona atenta, creativa y colaborativa, siempre dispuesta a apoyar a mi equipo en todo lo que sea necesario. Además, cuento con conocimientos en diversos lenguajes de programación, como C++, C#, Python y Java. 
+![Guillermo](assets/images/cap1/Guillermo.png) | **Guillermo Arturo Howard Robles - u202222275**  Soy un estudiante de Ingeniería de Software enfocado en el aprendizaje constante. Me apasiona investigar y analizar problemas para proponer soluciones innovadoras. Busco desarrollar software integral, aplicando mejores prácticas y tecnologías modernas para garantizar eficiencia, escalabilidad, calidad y mejora continua en cada proyecto. 
+![David](assets/images/cap1/David.png) | **David Ignacio Vivar Cesar - u202414424**  Estudiante de Ingeniería de Software interesado en desarrollar soluciones eficientes con tecnología de vanguardia. Siempre buscando mejorar y abierto a cualquier crítica constructiva. 
+![Dylan](assets/images/cap1/Dylan.png) | **Mike Dylan Guillén Giraldo - u202211881**  Soy un estudiante de Ingeniería de Software interesado en desarrollar aplicaciones y sistemas escalables. Disfruto investigar y aprender nuevas tecnologías para crear soluciones innovadoras e impactantes. Estoy motivado para aplicar buenas prácticas de programación, principios de arquitectura de software y metodologías ágiles para construir proyectos de calidad, manteniendo siempre una visión de mejora continua y crecimiento profesional. 
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y Problematicas

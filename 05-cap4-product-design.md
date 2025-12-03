@@ -1,6 +1,6 @@
 <div style="page-break-after: always;"></div>
 
-# Capítulo IV: Product Design
+# **Capítulo IV: Product Design**
 ## 4.1. Style Guidelines
 
 Una guía de estilo es un conjunto de reglas y estándares que definen cómo deben escribirse, diseñarse y presentarse los documentos, el contenido web y el software. A continuación, se presentan las especificaciones de los parámetros implementados en la estructura del proyecto.

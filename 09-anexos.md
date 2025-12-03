@@ -1,6 +1,6 @@
 <div style="page-break-after: always;"></div>
 
-# Anexos
+# **Anexos**
 
 ## Anexo A. Figma de diseños
 
