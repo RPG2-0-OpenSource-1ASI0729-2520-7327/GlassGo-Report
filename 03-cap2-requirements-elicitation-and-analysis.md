@@ -1,7 +1,6 @@
 <div style="page-break-after: always;"></div>
 
 # **Capítulo II: Requirements Elicitation & Analysis**
-
 ## 2.1. Competidores.
 
 * **Verizon Connect (competidor directo):** Es una plataforma de gestión de flotas basada en la nube que ofrece soluciones de localización GPS, optimización de rutas, mantenimiento predictivo y seguridad de vehículos. Está orientada a empresas con flotas medianas y grandes que buscan mejorar la eficiencia logística y reducir costos operativos. Su presencia es fuerte en Estados Unidos, Canadá y Europa, donde atiende sectores como transporte, construcción y distribución.

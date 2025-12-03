@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="assets/images/readme/logo-upc.png" alt="Logo UPC" style="width: 150px; height: auto;" />
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
@@ -19,15 +20,15 @@
 
 **Informe de Trabajo Final**
 
-## Nombre del Startup
+**Nombre del Startup**
 
 **Nombre: _RPG2.0_**
 
-## Nombre del Producto
+**Nombre del Producto**
 
 **Producto: _GlassGo_**
 
-## Relación de integrantes
+**Relación de integrantes**
 
 <table>
   <thead>
